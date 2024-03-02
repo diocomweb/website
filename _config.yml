@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Diode Foundation
+description: Our purpose is to deploy and sustain worldwide secure Internet communications via the Diode Network.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://diode.foundation
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Diode: https://diode.io
