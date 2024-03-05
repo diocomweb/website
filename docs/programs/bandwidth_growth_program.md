@@ -9,6 +9,8 @@ nav_order: 2
 
 **Launching in March, 2024** Monitor the [Diode Telegram channel](https://t.me/diode_chain) or [X](https://x.com/diode_chain) for details.
 
+[Terms and Conditions](/docs/programs/terms.html)
+
 ## Overview
 
 The goal of the regional Bandwidth Growth Program is to grow the capacity of high-quality regional network bandwidth around the globe.  

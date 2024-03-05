@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Diode Foundation Ambassador Program Terms
+title: Program Terms
 parent: Programs
 nav_order: 20
 ---
 
-# Diode Foundation Ambassador Program Terms
+# Ambassador Program Terms
 
 Whereas, Diode Foundation desires to deploy and sustain worldwide secure Internet communications via the [Diode Network](/docs/diode_network.html), and whereas Participant desires to obtain the right to act as an independent ambassador of the Diode Foundation with the non-exclusive right to market and promote the Diode Network, to participate in programs offered by the Diode Foundation, and to refer other ambassadors to participate in programs offered by the Diode Foundation. Therefore, by clicking a box approving, by responding with a message in the affirmative to a prompt, or by signing a "Diode Foundation Ambassador Program Addendum" asking for Participant's approval of this Agreement, Participant agrees to participate in the programs offered by the Diode Foundation Ambassador Program (“Program” or "Programs"), as posted on the Programs page of the [Diode Foundation website](https://diode.foundation), in accordance with the terms and conditions set forth in the following sections.
 
@@ -64,26 +64,26 @@ PARTICIPANT ACKNOWLEDGES THAT IT HAS READ THIS AGREEMENT AND AGREES TO ALL ITS T
 ### 14. Notices
 Any notice, approval, request, authorization, direction or other communication under this Agreement will be given in writing and will be deemed to have been delivered and given for all purposes, by the Diode Foundation by posting on the then-current Program communication channel(s), and by the Participant by responding in a direct message to the Diode Foundation.  Notwithstanding the foregoing, the Diode Foundation may give notice of changes in prices, descriptions, policies, and other events and procedures by way of a general announcement or website content update.
 
-### 16. Force Majeure
+### 15. Force Majeure
 The Diode Foundation shall not be liable for failure or delay in performance of any of its obligations hereunder if such delay or failure to perform is caused by circumstances beyond its reasonable control.
 
-### 17. Relationship to the Parties
+### 16. Relationship to the Parties
 The Diode Foundation and Participant are independent contractors, and nothing in this Agreement will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between the parties. Participant is in no way authorized to make any license, contract, agreement, warranty or representation on behalf of the Diode Foundation, or to create any obligations expressed or inspired on behalf of the Diode Foundation except to the extent and for the purposes expressly provided for and set forth herein.
 
-### 18. General
+### 17. General
 
-#### 18.1 Entire Agreement
+#### 17.1 Entire Agreement
 This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior written and oral agreements between the parties regarding the subject matter of this Agreement. In the event of a conflict or inconsistency between the terms of this Agreement and those of any order, quotation, acknowledgment or other communication from one party to the other, the terms of this Agreement will be controlling;
 
-#### 18.2 Assignment
+#### 17.2 Assignment
 Participant will not assign this Agreement or any rights under this Agreement without the prior written consent of the Diode Foundation. Subject to the foregoing, this Agreement will be binding upon and inure to the benefit of the parties hereto and their respective successors or assigns. For purposes hereof, an assignment includes, without limitation, a merger, sale of assets or business, or other transfer of control by operation of law or otherwise;
 
-#### 18.3 Governing Law
+#### 17.3 Governing Law
 This Agreement will be governed by the internal laws of Panama (without regard to its conflict of law principles), and Participant consents to the exclusive personal jurisdiction of and venue in the courts sitting in Panama City, Panama;
 
-#### 18.4 Arbitration
+#### 17.4 Arbitration
 Any unresolved dispute relating in any way to this Agreement (including any actual or alleged breach hereof), any transactions or activities under this Agreement or Participant relationship with the Diode Foundation, or any of the Diode Foundation's participants shall be submitted to confidential arbitration in Sheridan, WY USA, except that, to the extent Participant has in any manner violated or threatened to violate the Diode Foundation's intellectual property rights, the Diode Foundation may seek injunctive or other appropriate relief. Arbitration under this agreement shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise;
 
-#### 18.5 Miscellaneous
+#### 17.5 Miscellaneous
 In the event any provision of this Agreement is held to be invalid or unenforceable for any reason, such invalidity or unenforceability will attach only to such provision and will not affect or render invalid or unenforceable any other provision of this Agreement. Any such provision may be reformed by a court of competent jurisdiction so as to render the same valid or enforceable while most nearly effectuating the intent of the parties. Any failure by the Diode Foundation to enforce strict performance by Participant of any provision of this Agreement will not constitute a waiver of the Diode Foundation’s right to subsequently enforce such provision or any other provision of this Agreement.
 
