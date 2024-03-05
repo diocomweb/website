@@ -6,7 +6,7 @@ nav_order: 4
 
 # Diode Network
 
-The Diode Network provides end-to-end encrypted communication, and related capabilities, to endpoints (see [How to use](/#how-to-use-the-network) below).  
+The Diode Network provides end-to-end encrypted communication, and related capabilities, to endpoints (see [How to use](#how-to-use-the-network) below).  
 
 The Diode Network is an open protocol decentralized physical infrastructure (DePIN) network that is comprised of a diverse set of contributors who run a [Diode Network Node](https://github.com/diodechain/diode_server).  These contributors operate their node in keeping with the [Diode Network Node License](https://github.com/diodechain/diode_server/blob/master/LICENSE).
 
