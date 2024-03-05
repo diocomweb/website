@@ -7,6 +7,8 @@ nav_order: 1
 
 # Ambassador Program
 
+**Launching in March, 2024** Monitor the [Diode Telegram channel](https://t.me/diode_chain) or [X](https://x.com/diode_chain) for details.
+
 ## Overview
 
 The goal of the Ambassador Program is to promote the use of Diode software and the Diode Network, and the participation in supplying DePIN infrastructure (Relay Nodes) to the Diode Netowrk.

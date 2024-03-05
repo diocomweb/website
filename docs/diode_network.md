@@ -6,7 +6,9 @@ nav_order: 4
 
 # Diode Network
 
-The Diode Network provides end-to-end encrypted communication, and related capabilities, to endpoints.  It is an open protocol DePIN network that is comprised of a diverse set of contributors who run a [Diode Network Node](https://github.com/diodechain/diode_server).  These contributors operate their node in keeping with the [Diode Network Node License](https://github.com/diodechain/diode_server/blob/master/LICENSE) and are not obligated to provide services to anyone.
+The Diode Network provides end-to-end encrypted communication, and related capabilities, to endpoints.  
+
+It is an open protocol decentralized physical infrastructure (DePIN) network that is comprised of a diverse set of contributors who run a [Diode Network Node](https://github.com/diodechain/diode_server).  These contributors operate their node in keeping with the [Diode Network Node License](https://github.com/diodechain/diode_server/blob/master/LICENSE).
 
 Relay Node operators the bandwidth they host for [DIODE tokens](/docs/token.html).
 
@@ -18,7 +20,7 @@ If you want to build your own application that uses the network, checkout the [D
 
 ## Relay Nodes
 
-The Diode Network is made up of many decentralized physical infrastructure (DePIN) nodes we call Relay Nodes.  These nodes run the [Diode Network Node](https://github.com/diodechain/diode_server) software.
+The Diode Network is made up of many DePIN nodes we call Relay Nodes.  These nodes run the [Diode Network Node](https://github.com/diodechain/diode_server) software.
 
 The requirements to host a Relay Nodes are:
 
