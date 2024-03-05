@@ -9,6 +9,8 @@ nav_order: 1
 
 **Launching in March, 2024** Monitor the [Diode Telegram channel](https://t.me/diode_chain) or [X](https://x.com/diode_chain) for details.
 
+[Register](#registration)
+
 [Terms and Conditions](/docs/programs/terms.html)
 
 ## Overview
