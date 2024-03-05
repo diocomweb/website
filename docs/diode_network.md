@@ -6,17 +6,17 @@ nav_order: 4
 
 # Diode Network
 
-The Diode Network provides end-to-end encrypted communication, and related capabilities, to endpoints.  
+The Diode Network provides end-to-end encrypted communication, and related capabilities, to endpoints (see [How to use](/#how-to-use-the-network) below).  
 
-It is an open protocol decentralized physical infrastructure (DePIN) network that is comprised of a diverse set of contributors who run a [Diode Network Node](https://github.com/diodechain/diode_server).  These contributors operate their node in keeping with the [Diode Network Node License](https://github.com/diodechain/diode_server/blob/master/LICENSE).
+The Diode Network is an open protocol decentralized physical infrastructure (DePIN) network that is comprised of a diverse set of contributors who run a [Diode Network Node](https://github.com/diodechain/diode_server).  These contributors operate their node in keeping with the [Diode Network Node License](https://github.com/diodechain/diode_server/blob/master/LICENSE).
 
-Relay Node operators the bandwidth they host for [DIODE tokens](/docs/token.html).
+Relay Node operators trade the bandwidth they provide for [DIODE tokens](/docs/token.html).
 
 ## How to use the Network
 
-You need to use an application that uses the network.  For example, see [Diode's website](https://diode.io) for more information on the Diode App and the Diode CLI.
+You need to use a sponsored application to use the network.  For example, the [Diode App](https://diode.io/solutions/app) (or [Diode CLI](https://diode.io/solutions/cli)) is an application, [Diode](https://diode.io) is the [Application Sponsor](#application-sponsors), and users of the Diode App have device endpoints (e.g. their phone or laptop).
 
-If you want to build your own application that uses the network, checkout the [Diode CLI's open source client software](https://github.com/diodechain/diode_client).
+Anyone can build their own application that uses the network.  Checkout the [Diode CLI's open source client software](https://github.com/diodechain/diode_client).
 
 ## Relay Nodes
 
