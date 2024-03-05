@@ -6,8 +6,7 @@ nav_order: 4
 
 # Diode Network
 
-
-The Diode Network is a service provided by a diverse set of contributors who run a [Diode Network Node](https://github.com/diodechain/diode_server).  These contributors operate their node in keeping with the [Diode Network Node License](https://github.com/diodechain/diode_server/blob/master/LICENSE) and are not obligated to provide services to anyone.
+The Diode Network provides end-to-end encrypted communication, and related capabilities, to endpoints.  It is an open protocol DePIN network that is comprised of a diverse set of contributors who run a [Diode Network Node](https://github.com/diodechain/diode_server).  These contributors operate their node in keeping with the [Diode Network Node License](https://github.com/diodechain/diode_server/blob/master/LICENSE) and are not obligated to provide services to anyone.
 
 Relay Node operators the bandwidth they host for [DIODE tokens](/docs/token.html).
 
