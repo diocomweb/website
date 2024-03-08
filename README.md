@@ -1,3 +1,6 @@
+<img width="326" alt="image" src="https://github.com/diocomweb/website/assets/65964623/04f76878-c567-4f81-903d-de09ffb4bac3">
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
