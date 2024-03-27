@@ -15,7 +15,7 @@ nav_order: 1
 
 ## Overview
 
-The goal of the Ambassador Program is to promote the use of Diode software and the Diode Network, and the participation in supplying DePIN infrastructure (Relay Nodes) to the Diode Netowrk.
+The goal of the Ambassador Program is to promote the use of Diode software and the Diode Network, and the participation in supplying DePIN infrastructure (Relay Nodes) to the Diode Network.
 
 The program registers “Ambassadors” whose will promote Diode in their regions.  Ambassadors can participate in other programs and earn rewards by through their participation, or through the participation of others who they refer.
 
