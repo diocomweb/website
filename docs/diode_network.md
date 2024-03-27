@@ -40,7 +40,7 @@ Many organizations also opt to host their own Relay Node.  In this way, they can
 
 ## Relay Node Incentives
 
-Most people will host a Relay Node to trade the bandwidth they supply for [DIODE bandwidth tokens](/docs/token.html).
+Most people will host a Relay Node to trade the bandwidth they supply for [DIODE bandwidth tokens](/docs/token.html) (see Application Sponsors below for more information).
 
 However, some people will host a node to provide themselves, and their users, with their own Diode Network bandwidth - this can have the advantages of greater privacy and potentially lower cost.
 
@@ -57,4 +57,4 @@ Otherwise, the are no other contractual liabilities or warranties required from 
 
 Application Sponsors (AKA Fleet Contract Owners) stake DIODE tokens into a Fleet Contract that sponsors bandwidth for any endpoint listed in the Fleet Contract.  When endpoint traffic is routed to a Relay Node, the Relay Node checks the sponsoring Fleet Contract to see how many DIODE tokens it will trade for bandwidth - if the Relay Node determines the trade is good enough, it will accept the traffic.
 
-At the end of the month, the DIODE tokens are deducted from the Fleet Contracts by the Diode Network, and distributed to the Relay Nodes algorithmically.  The [Fleet Contract LICENSE](https://github.com/diodechain/diode_contract/blob/master/LICENSE) governs the Application Sponsor's use of the Fleet Contract to trade DIODE tokens for bandwidth.
+At the end of the month, 1% of the DIODE tokens staked are deducted from the Fleet Contracts by the Diode Network, and distributed to the Relay Nodes algorithmically based on each Relay Node's contributions to bandwidth hosting for the Fleet Contract.  The [Fleet Contract LICENSE](https://github.com/diodechain/diode_contract/blob/master/LICENSE) is the definitive description for how the Application Sponsor's Fleet Contract stake is traded for bandwidth.
