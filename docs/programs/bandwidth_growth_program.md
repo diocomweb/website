@@ -17,7 +17,7 @@ nav_order: 2
 
 The goal of the regional Bandwidth Growth Program is to grow the capacity of high-quality regional network bandwidth around the globe.  
 
-In order to participate in this program, you must first register as an [Ambassador](/docs/programs/ambassador_program.html).
+In order to participate in this program, you must first register as an [Ambassador](/docs/programs/ambassador_registration_program.html).
 
 ## Goals
 
@@ -33,7 +33,7 @@ Ambassadors are rewarded based on the activity of the Relay Nodes who have been 
 
 ### Reward Mechanism
 
-In order to be rewarded by this program, each Ambassador or Relay Node must be part of the [Ambassador Program](/docs/programs/ambassador_program.html) and must have provided some bandwidth to the Diode Network.  If a registered Ambassador provides bandwidth to the network, as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month, the network will calculate and distribute rewards.
+In order to be rewarded by this program, each Ambassador or Relay Node must be part of the [Ambassador Program](/docs/programs/ambassador_registration_program.html) and must have provided some bandwidth to the Diode Network.  If a registered Ambassador provides bandwidth to the network, as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month, the network will calculate and distribute rewards.
 
 ### Reward Calculation
 
