@@ -25,7 +25,7 @@ To grow the supply of, and demand for, bandwidth on the Diode Network.
 
 ## Rewards
 
-Every Ambassador will have a reward of 10 DIODE automatically deposited in their Diode identity contract upon registration.
+Every Ambassador will have a reward of 10 DIODE automatically deposited in their Diode identity contract after registration.
 
 Ambassadors will be eligible for other reward programs, such as the [Bandwidth Growth Program](/docs/programs/bandwidth_growth_program.hmtl), other programs, and other airdrops.
 
