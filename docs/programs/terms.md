@@ -32,7 +32,7 @@ e) Not make any false or misleading representations with respect to the Diode Fo
 f) Comply with all applicable laws, rules, and regulations applicable to Participant’s activities under or in connection with this Agreement.
 
 ### 4. Program Rewards
-Certain of the Programs may include rewards given to the Participant that may be automatically or manually disbursed by the Diode Foundation or other technologies or partners involved in the Programs.  All such rewards shall be considered "as is" and Participant's participation in the Programs must not be predicated upon receiving such rewards.  Except as provided herein, Participant shall receive no other sums, compensation, remuneration, fees, reimbursements, or payments from the Diode Foundation and Participant waives any right to claim any such sums, compensation, remuneration, fees, or payments.  If rewards are not to Participant's satisfaction, Participant's sole remedy is to cease participation in the Programs.
+Certain of the Programs may include rewards given to the Participant that may be automatically or manually disbursed by the Diode Foundation or other technologies or partners involved in the Programs.  Except as provided herein, Participant shall receive no other sums, compensation, remuneration, fees, reimbursements, or payments from the Diode Foundation and Participant waives any right to claim any such sums, compensation, remuneration, fees, or payments.  All such rewards shall be considered "as is" - if rewards are not to Participant's satisfaction, Participant's sole remedy is to cease participation in the Programs.
 
 ### 5. Term
 This Agreement shall automatically renew on a monthly basis unless otherwise terminated as set forth herein.
