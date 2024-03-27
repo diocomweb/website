@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Ambassador Program
+title: Ambassador Registration Program
 parent: Programs
 nav_order: 1
 ---
 
-# Ambassador Program
+# Ambassador Registration Program
 
 **Launching in March, 2024** Monitor the [Diode Telegram channel](https://t.me/diode_chain) or [X](https://x.com/diode_chain) for details.
 
@@ -15,7 +15,7 @@ nav_order: 1
 
 ## Overview
 
-The goal of the Ambassador Program is to promote the use of Diode software and the Diode Network, and the participation in supplying DePIN infrastructure (Relay Nodes) to the Diode Network.
+The goal of the Ambassador Registration Program is to enable participants to register for the Ambassador Program.  The Ambassador Program's purpose is to promote the use of Diode software and the Diode Network, and the participation in supplying DePIN infrastructure (Relay Nodes) to the Diode Network.
 
 The program registers “Ambassadors” whose will promote Diode in their regions.  Ambassadors can participate in other programs and earn rewards by through their participation, or through the participation of others who they refer.
 
