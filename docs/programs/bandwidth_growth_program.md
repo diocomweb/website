@@ -63,26 +63,29 @@ The Diode Foundation has set-aside 1M DIODE for the Bandwidth Growth Program. Th
 
 You must register your Relay Node in order to attributed rewardable traffic to yourself as an Ambassador, and anyone in the hierarchy above you.
 
-### How to Register as an Ambassador
+### How to Register a Relay Node
 
 **Details will be updated in April, 2024**
 
-1. Join the Diode Community Telegram channel
-2. Download the Diode App and sign up
-3. In **April of 2024, monitor the Diode Community Telegram channel** for an invitation code to the "Ambassador Program" Zone
-4. Find an existing Ambassador, ideally in your same geographic region, and ask them for their referral code
-5. When the invitation code is posted to the channel, use the code to join the "Ambassadors" Zone
-6. Look for the "Registrar" chat and click it
-7. Register as an Ambassador by chatting the Referral Code you got from another Ambassador
-8. The chat will return a challenge asking you to confirm you accept the terms of the program
-9. If you accept the terms, the Registrar will then return to you your own referral code you can give to others to sign up
+1. Join the [Ambassador Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and get your own referral code
+2. In **Mide/Late April of 2024, monitor the Diode Community Telegram channel** for information about how to host a Relay Node
+3. Put a Relay Node online!
+4. Open the Ambassador Zone in your Diode App and click the "Registrar" DM
+5. Use the command "register [node address]" where [node address] is the public key of your Relay Node (make sure you don't attempt to register a node / address that you do not own - this can result in your Ambassador profile being banned from the system)
+6. You can type "nodes" to get a list of nodes that belong to you
+7. Start relaying traffic!
 
 ## Governance
+
+**Please do NOT register a node that does not belong to you - this may result in your being banned from the system**
 
 The Diode Community DAO is responsible for governance of this program.  For example, the DAO will decide whether to continue the program after the first 36 months.
 
 All Relay Node registrations are valid for 36 months only, after which the Relay Node rewards will no longer be allocated a Bandwidth Boost Award. Once a child Relay Node has been registered, registrations may not be changed.
 
 Unallocated Bandwidth Boost Award, if any, will be added to the following month’s Bandwidth Growth Program Pool.
+
+Please do NOT* Register a node that does not belong to you - this may result in your being banned from the system
+  
 
 
