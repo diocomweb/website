@@ -7,7 +7,7 @@ nav_order: 1
 
 # Ambassador Registration Program
 
-**Launching in March, 2024** Monitor the [Diode Telegram channel](https://t.me/diode_chain) or [X](https://x.com/diode_chain) for details.
+**Launching in April, 2024** Monitor the [Diode Telegram channel](https://t.me/diode_chain) or [X](https://x.com/diode_chain) for details.
 
 [Register](#registration)
 
@@ -39,16 +39,17 @@ Upon registering, each Ambassador receives a referral code that they can supply 
 
 ### How to Register as an Ambassador
 
+**Details will be updated in April, 2024**
+
 1. Join the Diode Community Telegram channel
 2. Download the Diode App and sign up
-3. In March of 2024, monitor the Diode Community Telegram channel for an invitation code to the "Ambassador Program" Zone
+3. In **April of 2024, monitor the Diode Community Telegram channel** for an invitation code to the "Ambassador Program" Zone
 4. Find an existing Ambassador, ideally in your same geographic region, and ask them for their referral code
-5. When the invitation code is posted to the channel, use the code to join the Zone
-6. Look for the "Ambassador Registrar" chat and click it
-7. Register as an Ambassador by chatting `/register [referral code]` where [referral code] is the actual referral code you got from another Ambassador (e.g. if your parent Ambassador's referral code was `x3jt834`, you'd chat `/register x3jt834`)
+5. When the invitation code is posted to the channel, use the code to join the "Ambassadors" Zone
+6. Look for the "Registrar" chat and click it
+7. Register as an Ambassador by chatting the Referral Code you got from another Ambassador
 8. The chat will return a challenge asking you to confirm you accept the terms of the program
-9. If you accept the terms, chat `/register accept-terms`
-10. The Ambassador Registrar will then return to you your own referral code - don't lose it!!
+9. If you accept the terms, the Registrar will then return to you your own referral code you can give to others to sign up
 
 ## Governance
 
