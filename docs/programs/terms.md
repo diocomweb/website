@@ -25,11 +25,13 @@ b) Participate in online forums for the Programs;
 
 c) Conduct business in a manner that reflects favorably on the Diode Foundation, the Diode Network, and Diode (https://diode.io);
 
-d) Strictly avoid any and all deceptive, misleading, illegal, immoral, or unethical practices that might be detrimental to the Diode Foundation, the Diode Network, Diode, or the public;
+d) Adhere to the requirements, governance, and other guidance as listed on the applicable program page;
 
-e) Not make any false or misleading representations with respect to the Diode Foundation, the Diode Network, or Diode;
+e) Strictly avoid any and all deceptive, misleading, illegal, immoral, or unethical practices that might be detrimental to the Diode Foundation, the Diode Network, Diode, or the public;
 
-f) Comply with all applicable laws, rules, and regulations applicable to Participant’s activities under or in connection with this Agreement.
+f) Not make any false or misleading representations with respect to the Diode Foundation, the Diode Network, or Diode;
+
+g) Comply with all applicable laws, rules, and regulations applicable to Participant’s activities under or in connection with this Agreement.
 
 ### 4. Program Rewards
 Certain of the Programs may include rewards given to the Participant that may be automatically or manually disbursed by the Diode Foundation or other technologies or partners involved in the Programs.  Program rewards shall be considered as a benefit that allows increased participation in providing or acquiring network bandwidth, and Participant's participation in the Programs must not be predicated upon receiving such rewards.  All such rewards shall be considered "as is" - if rewards are not to Participant's satisfaction, Participant's sole remedy is to cease participation in the Programs.  Except as provided herein, Participant shall receive no other sums, compensation, remuneration, fees, reimbursements, or payments from the Diode Foundation and Participant waives any right to claim any such sums, compensation, remuneration, fees, or payments.
