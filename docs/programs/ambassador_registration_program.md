@@ -19,6 +19,8 @@ The goal of the Ambassador Registration Program is to enable participants to reg
 
 The program registers “Ambassadors” whose will promote Diode in their regions.  Ambassadors can participate in other programs and earn rewards by through their participation, or through the participation of others who they refer.
 
+[Watch the video for how to sign up](https://www.loom.com/share/1dfa563e4c8440fab78dae982c9445eb)
+
 ## Goals
 
 To grow the supply of, and demand for, bandwidth on the Diode Network.  
@@ -36,7 +38,6 @@ In order to register for the program, each would-be Ambassador must sign up on t
 Upon registering, each Ambassador receives a referral code that they can supply to Relay Nodes or other Ambassadors. Ambassadors can only register by using another Ambassador’s referral code.
 
 ### How to Register as an Ambassador
-[Watch the video](https://www.loom.com/share/1dfa563e4c8440fab78dae982c9445eb)
 
 1. Download the Diode App and sign up
 3. [Join the "Ambassador Program" Zone](https://diode.io/joinzone/#I8-h8z8ATSgTXMJdhXwWkQs0VVniODeRgjcBUlmYW78B6qx5I0BCEIdUviie)
