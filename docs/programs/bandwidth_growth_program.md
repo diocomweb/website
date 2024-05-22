@@ -54,11 +54,6 @@ An example distribution to the antecedents of a Relay Node who has handled 2% of
 | Relay Node (Great-Great Grandchild) (h=1) | 100 DIODE |
 | **Total Allocated Award** | **200 DIODE** |
 
-
-### Reward Pool
-
-The Diode Foundation has set-aside 1M DIODE for the Bandwidth Growth Program. The Bandwidth Growth Program Pool will be filled by the Diode Foundation at the beginning of every month for 36 months with a minimum of 10,000 DIODE. After 36 months, depending on the overall bandwidth supply in the network, the Diode Foundation will evaluate whether to extend the program for an additional 12 months at a time, or to distribute the remaining allocated tokens to program contributors.
-
 ## Registration
 
 You must register your Relay Node in order to attributed rewardable traffic to yourself as an Ambassador, and anyone in the hierarchy above you.
@@ -68,7 +63,7 @@ You must register your Relay Node in order to attributed rewardable traffic to y
 **Details will be updated in April, 2024**
 
 1. Join the [Ambassador Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and get your own referral code
-2. In **Mide/Late April of 2024, monitor the Diode Community Telegram channel** for information about how to host a Relay Node
+2. In **May of 2024, monitor the Diode Community Telegram channel** for information about how to host a Relay Node
 3. Put a Relay Node online!
 4. Open the Ambassador Zone in your Diode App and click the "Registrar" DM
 5. Use the command "register [node address]" where [node address] is the public key of your Relay Node (make sure you don't attempt to register a node / address that you do not own - this can result in your Ambassador profile being banned from the system)
