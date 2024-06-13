@@ -39,6 +39,8 @@ Upon registering, each Ambassador receives a referral code that they can supply 
 
 ### How to Register as an Ambassador
 
+[Watch the video for how to sign up](https://www.loom.com/share/1dfa563e4c8440fab78dae982c9445eb)
+
 1. Download the Diode App and sign up
 3. [Join the "Ambassador Program" Zone](https://diode.io/joinzone/#I8-h8z8ATSgTXMJdhXwWkQs0VVniODeRgjcBUlmYW78B6qx5I0BCEIdUviie)
 4. Find an existing Ambassador, ideally in your same geographic region, and ask them for their referral code (or, check for the list of regional codes in the Zone's About page)
