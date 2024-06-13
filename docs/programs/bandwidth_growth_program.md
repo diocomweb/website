@@ -63,7 +63,7 @@ You must register your Relay Node in order to attributed rewardable traffic to y
 **Details will be updated in April, 2024**
 
 1. Join the [Ambassador Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and get your own referral code
-2. In **May of 2024, monitor the Diode Community Telegram channel** for information about how to host a Relay Node
+2. In **June of 2024, monitor the Diode Community Telegram channel** for information about how to host a Relay Node
 3. Put a Relay Node online!
 4. Open the Ambassador Zone in your Diode App and click the "Registrar" DM
 5. Use the command "register [node address]" where [node address] is the public key of your Relay Node (make sure you don't attempt to register a node / address that you do not own - this can result in your Ambassador profile being banned from the system)
