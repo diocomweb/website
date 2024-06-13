@@ -80,7 +80,7 @@ All Relay Node registrations are valid for 36 months only, after which the Relay
 
 Unallocated Bandwidth Boost Award, if any, will be added to the following month’s Bandwidth Growth Program Pool.
 
-Please do NOT* Register a node that does not belong to you - this may result in your being banned from the system
+Please **DO NOT** Register a node that does not belong to you - this may result in your being banned from the system
   
 
 
