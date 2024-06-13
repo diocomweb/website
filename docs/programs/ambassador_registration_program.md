@@ -33,7 +33,7 @@ Ambassadors will be eligible for other reward programs, such as the [Bandwidth G
 
 In Q1 of 2024, Diode selected a handful of regional Seed Ambassadors who are the senior ancestors of all other Ambassadors, and who do not need to register with a referral code. Every other Ambassador must register with a referral code from another Ambassador.
 
-In order to register for the program, each would-be Ambassador must sign up on the Diode App, [join the "Ambassador Program" Zone](https://diode.io/joinzone/#I8-h8z8ATSgTXMJdhXwWkQs0VVniODeRgjcBUlmYW78B6qx5I0BCEIdUviie), and register with the Ambassador Registrar via chat (See ["How to Register"](/docs/programs/ambassador_program.html#how-to-register)).
+In order to register for the program, each would-be Ambassador must sign up on the Diode App, [join the "Ambassador Program" Zone](https://diode.io/joinzone/#I8-h8z8ATSgTXMJdhXwWkQs0VVniODeRgjcBUlmYW78B6qx5I0BCEIdUviie), and register with the Ambassador Registrar via chat (See ["How to Register"](/docs/programs/ambassador_registration_program.html#how-to-register)).
 
 Upon registering, each Ambassador receives a referral code that they can supply to Relay Nodes or other Ambassadors. Ambassadors can only register by using another Ambassador’s referral code.
 
