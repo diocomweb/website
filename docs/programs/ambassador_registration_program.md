@@ -41,7 +41,7 @@ Upon registering, each Ambassador receives a referral code that they can supply 
 
 1. Download the Diode App and sign up
 3. [Join the "Ambassador Program" Zone](https://diode.io/joinzone/#I8-h8z8ATSgTXMJdhXwWkQs0VVniODeRgjcBUlmYW78B6qx5I0BCEIdUviie)
-4. Find an existing Ambassador, ideally in your same geographic region, and ask them for their referral code
+4. Find an existing Ambassador, ideally in your same geographic region, and ask them for their referral code (or, check for the list of regional codes in the Zone's About page)
 6. Look for the "Registrar" chat in the Ambassadors Zone and click it
 7. Register as an Ambassador by chatting the Referral Code you got from another Ambassador
 8. The chat will return a challenge asking you to confirm you accept the terms of the program
