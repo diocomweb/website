@@ -2,7 +2,7 @@
 layout: default
 title: Dera Connect
 nav_order: 3
-parent: Applications
+parent: Apps and Projects
 ---
 
 # Dera Connect
