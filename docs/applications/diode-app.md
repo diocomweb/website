@@ -12,4 +12,4 @@ The [Diode App](https://diode.io/solutions/app) is the pioneer application on th
 
 See here for [documentation](https://app.docs.diode.io/).
 
-**Developer** [Diode](https://diode.io)
+**Developer:** [Diode](https://diode.io)
