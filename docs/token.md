@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Token
-nav_order: 5
+nav_order: 6
 ---
 
 # DIODE Bandwidth Token
