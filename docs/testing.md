@@ -1,7 +1,8 @@
 ---
 layout: default
-title: test2
-nav_order: 13
+title: Ambassador Registration Program
+parent: Programs
+nav_order: 1
 ---
 
 # Test2
