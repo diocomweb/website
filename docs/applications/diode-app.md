@@ -2,7 +2,7 @@
 layout: default
 title: Diode App
 nav_order: 1
-parent: Applications
+parent: Apps and Projects
 ---
 
 # Diode App
