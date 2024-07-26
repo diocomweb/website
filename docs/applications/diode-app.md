@@ -2,7 +2,6 @@
 layout: default
 title: Diode App
 nav_order: 1
-has_children: true
 parent: Applications
 ---
 
