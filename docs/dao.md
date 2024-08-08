@@ -11,4 +11,4 @@ The Diode Community DAO is comprised of members from around the world who propos
 
 We will be making the Diode Community DAO membership open to certain engaged [Ambassadors](/docs/programs/ambassador_registration_program.html) in 2024.
 
-The Diode Community DAO uses Snapshot for [Diode Community DAO proposals](https://snapshot.org/#/diodefoundation.eth) and voting.
+The Diode Community DAO uses [Snapshot](https://snapshot.org) for [Diode Community DAO proposals](https://snapshot.org/#/diodefoundation.eth) and voting.
