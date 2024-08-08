@@ -49,6 +49,28 @@ Upon registering, each Ambassador receives a referral code that they can supply 
 8. The chat will return a challenge asking you to confirm you accept the terms of the program
 9. If you accept the terms, the Registrar will then return to you your own referral code you can give to others to sign up
 
+## Regional Seed Codes
+
+If you don't have a referral code from an Ambassador, but would like to become one, you can register with a regional code from the table below:
+
+| **Region** | **Referral Code** |
+| --- | --- |
+| Brazil and S America | YFJOVUGITJVCHNQCCHIG |
+| Central America | To be announced |
+| England and Wales | XDEJZHHAQANUHCBSBAWV |
+| Scotland | LIWAMBXIISBJGTZHVVDX |
+| Rest of Wetern Europe | To be announced |
+| Turkey and Central Asia | HVUNULUNLCTBLCGBXQBY |
+| Rest of Eastern Europe | To be announced |
+| Russia | To be announced |
+| Taiwan and SE Asia | BKCTGIIXRIUGAEMXSZYM |
+| Philippines | XDEJZHHAQANUHCBSBAWV |
+| Africa | To be announced |
+| USA - Central | To be announced |
+| USA - East | YKNUTUVAGRAACKQWNPWE |
+| USA - Mountain | QWSPJXPNKKCEXAYGXOUO |
+| USA - Pacific | To be announced |
+
 ## Governance
 
 The Diode Community DAO is responsible for governance of this program.  
