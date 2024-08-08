@@ -2,7 +2,6 @@
 layout: default
 title: Apps and Projects
 nav_order: 5
-has_children: true
 ---
 
 # Apps and Projects
