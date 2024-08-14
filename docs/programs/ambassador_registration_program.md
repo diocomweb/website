@@ -69,7 +69,7 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | USA - Central | To be announced |
 | USA - East | YKNUTUVAGRAACKQWNPWE |
 | USA - Mountain | QWSPJXPNKKCEXAYGXOUO |
-| USA - Pacific | To be announced |
+| USA - PNW and Pacific | YUJMMLSEAUWFXNJLDPNQ |
 
 ## Governance
 
