@@ -66,7 +66,7 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | Taiwan and SE Asia | BKCTGIIXRIUGAEMXSZYM |
 | Philippines | XDEJZHHAQANUHCBSBAWV |
 | Africa | To be announced |
-| USA - Central | To be announced |
+| USA - Central | YIWABEMKXUWJAVHNRBDD |
 | USA - East | YKNUTUVAGRAACKQWNPWE |
 | USA - Mountain | QWSPJXPNKKCEXAYGXOUO |
 | USA - PNW and Pacific | YUJMMLSEAUWFXNJLDPNQ |
