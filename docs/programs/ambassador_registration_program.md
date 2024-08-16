@@ -68,7 +68,7 @@ Ambassadors will be eligible for other reward programs, such as the [Bandwidth G
 
 The Diode Community DAO is responsible for governance of this program.  
 
-All Ambassador registrations are valid for 36 months only, after which the child Ambassador will no longer allocate any rewards to its registered parent. Once a child Ambassador has been registered, registrations may not be changed.
+All Ambassador registrations are valid for 36 months only, after which the child Ambassador will no longer allocate any rewards to its registered parent. Once a child Ambassador has been registered, registrations may not be changed without approval of the Foundation.
 
 
 
