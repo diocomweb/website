@@ -18,14 +18,14 @@ This page provides details on how to regsiter as an Ambassador. For more informa
 [Watch the video for how to sign up](https://www.loom.com/share/1dfa563e4c8440fab78dae982c9445eb)
 
 ### Prerequisites
-In order to register as a Diode Ambassador, you will need the following:
+In order to register as a Diode Ambassador, you will first need the following:
 
 1. Download and install the [Diode App](https://diode.io/download#app)
-2. Get an Ambassador Referral Code - If you were referred by an existing Ambassor, use the code provided. If you were not referred by an existing Ambassador, select the Referral Code for the country in the “Regional Codes” table below.
+2. Get an Ambassador Referral Code - if you were referred by an existing Ambassor, use the code provided. If you were not referred by an existing Ambassador, select the Referral Code for the country in the “Regional Codes” table below.
 
 ### Steps
 1. Open the Diode app and [join the "Ambassador Program" Zone](https://diode.io/joinzone/#I8-h8z8ATSgTXMJdhXwWkQs0VVniODeRgjcBUlmYW78B6qx5I0BCEIdUviie)
-2. Wait for the Ambassador Zone to appear and until it is full initialized (can take a few minutes)
+2. Wait for the Ambassador Zone to appear and until it is fully initialized (can take a few minutes)
 3. Navigate to the Registrar (or "regisrar.diode") chat and initiate a chat with it by sending "hello" (or anything you like)
 4. You will be prompted for your referral code - respond with the code you were provided or with a code from the Regional Codes table below
 5. You will be asked accept the terms of the program - type "I Accept"
