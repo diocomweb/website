@@ -7,10 +7,6 @@ nav_order: 1
 
 # Ambassador Registration Program
 
-[Register as an Ambassador](#registration)
-
-[Terms and Conditions](/docs/programs/terms.html)
-
 ## Overview
 
 Diode Ambassadors promote the use of Diode software and the Diode Network and provide DePIN infrastructure (Relay Nodes) to the Diode Network. The Ambassador Program outlines the benefits and requirements to be a Diode Ambassador. This goal of this program is to grow the number of Ambassadors and ultimately expand the use of the Diode Network and a more secure Internet.  
@@ -67,6 +63,8 @@ To grow the supply of, and demand for, bandwidth on the Diode Network.
 Ambassadors will be eligible for other reward programs, such as the [Bandwidth Growth Program](/docs/programs/bandwidth_growth_program.html), other programs, and airdrops.
 
 ## Governance
+
+[Terms and Conditions](/docs/programs/terms.html)
 
 The Diode Community DAO is responsible for governance of this program.  
 
