@@ -29,7 +29,7 @@ In order to register as a Diode Ambassador, you will first need the following:
 3. Navigate to the Registrar (or "regisrar.diode") chat and initiate a chat with it by sending "hello" (or anything you like)
 4. You will be prompted for your referral code - respond with the code you were provided or with a code from the Regional Codes table below
 5. You will be asked accept the terms of the program - type "I Accept"
-6. You received your own Ambassador Program Referral Code
+6. You will receive your own Ambassador Program Referral Code
 7. You can now use your code to promote the Diode Network to others!
 
 ## Regional Codes
