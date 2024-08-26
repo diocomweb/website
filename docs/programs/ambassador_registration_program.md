@@ -42,7 +42,7 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | Central America | To be announced |
 | England and Wales | XDEJZHHAQANUHCBSBAWV |
 | Scotland | LIWAMBXIISBJGTZHVVDX |
-| Rest of Wetern Europe | To be announced |
+| Rest of Wetern Europe | AYCNDICWXIQOHLINGDJD |
 | Turkey and Central Asia | HVUNULUNLCTBLCGBXQBY |
 | Rest of Eastern Europe | To be announced |
 | Russia | To be announced |
