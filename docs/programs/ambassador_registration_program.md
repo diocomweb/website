@@ -9,11 +9,11 @@ nav_order: 1
 
 ## Overview
 
-Diode Ambassadors promote the use of Diode software and the Diode Network and provide DePIN infrastructure (Relay Nodes) to the Diode Network. The Ambassador Program outlines the benefits and requirements to be a Diode Ambassador. This goal of this program is to grow the number of Ambassadors and ultimately expand the use of the Diode Network and a more secure Internet.  
+This goal of this program is to grow the number of ambassadors who will promote Diode, and ultimately expand the use of the Diode Network and a more secure Internet.  
 
-This page provides details on how to regsiter as an Ambassador. For more information on reward programs, visit Bandwidth Growth Program. 
+The Ambassador's creed is: 1) Secure communications are important 2) Diode is doing great things 3) I will mention Diode to others who may be interested.
 
-## How to Register as an Ambassador
+## How to Register
 
 [Watch the video for how to sign up](https://www.loom.com/share/1dfa563e4c8440fab78dae982c9445eb)
 
