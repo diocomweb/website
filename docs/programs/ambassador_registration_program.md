@@ -48,6 +48,7 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | Russia | To be announced |
 | Taiwan and SE Asia | BKCTGIIXRIUGAEMXSZYM |
 | Philippines | XDEJZHHAQANUHCBSBAWV |
+| India | To be announced |
 | Africa | To be announced |
 | USA - Central | YIWABEMKXUWJAVHNRBDD |
 | USA - East | YKNUTUVAGRAACKQWNPWE |
