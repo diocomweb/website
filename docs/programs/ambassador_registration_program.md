@@ -11,7 +11,7 @@ nav_order: 1
 
 This goal of this program is to grow the number of ambassadors who will promote Diode, and ultimately expand the use of the Diode Network and a more secure Internet.  
 
-The Ambassador's creed is: 1) Secure communications are important 2) Diode is doing great things 3) I will mention Diode to others who may be interested.
+The Diode Ambassador's creed is: 1) Secure communications are important 2) Diode is doing great things 3) I will mention Diode to others who may be interested!
 
 ## How to Register
 
