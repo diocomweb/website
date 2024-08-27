@@ -61,7 +61,7 @@ To grow the supply of, and demand for, bandwidth on the Diode Network.
 
 ## Rewards
 
-Ambassadors will be eligible for other reward programs, such as the [Bandwidth Growth Program](/docs/programs/bandwidth_growth_program.html), other programs, and airdrops.
+Ambassadors will be eligible for reward programs, such as the [Bandwidth Growth Program](/docs/programs/bandwidth_growth_program.html), other programs, and airdrops.
 
 ## Governance
 
