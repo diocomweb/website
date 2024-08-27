@@ -21,7 +21,7 @@ The Ambassador's creed is: 1) Secure communications are important 2) Diode is do
 In order to register as a Diode Ambassador, you will first need the following:
 
 1. Download and install the [Diode App](https://diode.io/download#app)
-2. Get an Ambassador Referral Code - if you were referred by an existing Ambassor, use the code provided. If you were not referred by an existing Ambassador, select the Referral Code for the country in the “Regional Codes” table below.
+2. Get an Ambassador Referral Code - if you were referred by an existing Ambassor, use the code provided. If you were not referred by an existing Ambassador, select the Referral Code for the country in the “[Regional Codes](https://diode.foundation/docs/programs/ambassador_registration_program.html#regional-codes)” table below.
 
 ### Steps
 1. Open the Diode app and [join the "Ambassador Program" Zone](https://diode.io/joinzone/#p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2)
