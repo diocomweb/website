@@ -39,17 +39,18 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | **Region** | **Referral Code** |
 | --- | --- |
 | Brazil and S America | YFJOVUGITJVCHNQCCHIG |
+| Canada | EZQJJMVOQKILWNVCHSWZ |
 | Central America | To be announced |
 | England and Wales | XDEJZHHAQANUHCBSBAWV |
+| Germany and rest of Wetern Europe | AYCNDICWXIQOHLINGDJD |
+| India | To be announced |
+| Nigeria and W Africa  | LWEFGWUVBSKASSCPIAFI |
+| Philippines | XDEJZHHAQANUHCBSBAWV |
 | Scotland | LIWAMBXIISBJGTZHVVDX |
-| Rest of Wetern Europe | AYCNDICWXIQOHLINGDJD |
-| Turkey and Central Asia | HVUNULUNLCTBLCGBXQBY |
 | Rest of Eastern Europe | To be announced |
 | Russia | To be announced |
 | Taiwan and SE Asia | BKCTGIIXRIUGAEMXSZYM |
-| Philippines | XDEJZHHAQANUHCBSBAWV |
-| India | To be announced |
-| Africa | To be announced |
+| Turkey and Central Asia | HVUNULUNLCTBLCGBXQBY |
 | USA - Central | YIWABEMKXUWJAVHNRBDD |
 | USA - East | YKNUTUVAGRAACKQWNPWE |
 | USA - Mountain | QWSPJXPNKKCEXAYGXOUO |
