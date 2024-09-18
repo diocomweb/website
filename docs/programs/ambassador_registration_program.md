@@ -42,12 +42,12 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | Canada | EZQJJMVOQKILWNVCHSWZ |
 | Central America | To be announced |
 | England and Wales | XDEJZHHAQANUHCBSBAWV |
-| Germany and rest of Western Europe | AYCNDICWXIQOHLINGDJD |
+| Germany and rest of W Europe | AYCNDICWXIQOHLINGDJD |
 | India | To be announced |
 | Nigeria and W Africa  | LWEFGWUVBSKASSCPIAFI |
 | Philippines | XDEJZHHAQANUHCBSBAWV |
 | Scotland | LIWAMBXIISBJGTZHVVDX |
-| Rest of Eastern Europe | To be announced |
+| Rest of E Europe | To be announced |
 | Russia | To be announced |
 | Taiwan and SE Asia | BKCTGIIXRIUGAEMXSZYM |
 | Turkey and Central Asia | HVUNULUNLCTBLCGBXQBY |
