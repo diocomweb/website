@@ -42,7 +42,7 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | Canada | EZQJJMVOQKILWNVCHSWZ |
 | Central America | To be announced |
 | England and Wales | XDEJZHHAQANUHCBSBAWV |
-| Germany and rest of Wetern Europe | AYCNDICWXIQOHLINGDJD |
+| Germany and rest of Western Europe | AYCNDICWXIQOHLINGDJD |
 | India | To be announced |
 | Nigeria and W Africa  | LWEFGWUVBSKASSCPIAFI |
 | Philippines | XDEJZHHAQANUHCBSBAWV |
