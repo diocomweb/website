@@ -38,7 +38,7 @@ If you don't have a referral code from an Ambassador, but would like to become o
 
 | **Region** | **Referral Code** |
 | --- | --- |
-| Brazil and S America | YFJOVUGITJVCHNQCCHIG |
+| Brazil | CHIFTIGQFDNGWKYMQZGT |
 | Canada | EZQJJMVOQKILWNVCHSWZ |
 | Central America | To be announced |
 | England and Wales | XDEJZHHAQANUHCBSBAWV |
@@ -48,6 +48,7 @@ If you don't have a referral code from an Ambassador, but would like to become o
 | Philippines | XDEJZHHAQANUHCBSBAWV |
 | Scotland | LIWAMBXIISBJGTZHVVDX |
 | Rest of E Europe | To be announced |
+| Rest of S America | YFJOVUGITJVCHNQCCHIG |
 | Russia | To be announced |
 | Taiwan and SE Asia | BKCTGIIXRIUGAEMXSZYM |
 | Turkey and Central Asia | HVUNULUNLCTBLCGBXQBY |
