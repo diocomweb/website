@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Ambassador Registration Program
+title: Diode Referral Program
 parent: Programs
 nav_order: 1
 ---
 
-# Ambassador Registration Program
+# Diode Referral Program
 
 ## Overview
 
-This goal of this program is to grow the number of ambassadors who will promote Diode, and ultimately expand the use of the Diode Network and a more secure Internet.  
+This goal of this program is to grow an ecosystem to promote Diode, and ultimately expand the use of the Diode Network and a more secure Internet.  
 
 The Diode Ambassador's creed is: 1) Secure communications are important 2) Diode is doing great things 3) I will mention Diode to others who may be interested!
 
