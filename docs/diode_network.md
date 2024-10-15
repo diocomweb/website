@@ -16,7 +16,7 @@ Relay Node operators trade the bandwidth they provide for [DIODE tokens](/docs/t
 
 ## How to use the Network
 
-You need to use a sponsored application to use the network.  For example, the [Diode App](https://diode.io/solutions/app) (or [Diode CLI](https://diode.io/solutions/cli)) is an application, [Diode](https://diode.io) is the [Application Sponsor](#application-sponsors), and users of the Diode App have device endpoints (e.g. their phone or laptop).
+You need to use a sponsored application to use the network.  For example, [Diode Collab](https://diode.io/solutions/app) (or [Diode CLI](https://diode.io/solutions/cli)) is an application, [Diode](https://diode.io) is the [Application Sponsor](#application-sponsors), and users of Diode Collab have device endpoints (e.g. their phone or laptop).
 
 Anyone can build their own application that uses the network.  Checkout the [Diode CLI's open source client software](https://github.com/diodechain/diode_client).
 
