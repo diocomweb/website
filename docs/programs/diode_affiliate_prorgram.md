@@ -5,7 +5,7 @@ parent: Programs
 nav_order: 3
 ---
 
-# Commercial Affiliate Program
+# Diode Affiliate Program
 
 **Launching in Q4 2024** Monitor the [Diode Discord](https://discord.gg/qdGCAKJdHs) for details.
 
