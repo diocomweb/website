@@ -30,6 +30,7 @@ Diode Collab's mission is to provide the leading team collaboration solution for
 Participants are rewarded based on two things:
 
 **1) Qualified New Zones:** Rewarded when a qualified new Zone has been registered. 
+
 **2) Upgraded Zones:** Rewarded when a previously registered Zone is upgraded to a paid Zone.
 
 ### Reward Mechanism
