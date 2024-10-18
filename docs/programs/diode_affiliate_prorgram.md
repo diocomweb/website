@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Commercial Affiliate Program
+title: Diode Affiliate Program
 parent: Programs
 nav_order: 3
 ---
