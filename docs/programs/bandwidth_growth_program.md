@@ -7,7 +7,7 @@ nav_order: 2
 
 # Bandwidth Growth Program
 
-**Launching in Q4 2024** Monitor the [Diode Telegram channel](https://t.me/diode_chain) or [X](https://x.com/diode_chain) for details.
+**Launching in Q4 2024** Monitor the [Diode Discord](https://discord.gg/qdGCAKJdHs) or [X](https://x.com/diode_chain) for details.
 
 [Register](#registration)
 
