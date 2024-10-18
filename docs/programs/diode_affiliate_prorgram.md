@@ -15,11 +15,11 @@ nav_order: 3
 
 ## Overview
 
-The goal of the Commercial Affiliate Program is to expand the use of [Diode Collab ](https://diode.io/solutions/app) in organizations.  
-
-In order to participate in this program, you must first register for a [Referral Code](/docs/programs/ambassador_registration_program.html) and join the Diode Affiliate zone (see "Registration" below).
+The mission of the Diode Affiliate Program is to expand the use of [Diode Collab ](https://diode.io/solutions/app) in organizations.  This program is a collaboration between the [Diode Foundation](https://diode.foundation) and [Diode](https://diode.io).
 
 ## Goals
+
+The goal of this program is to reward participants for helping organizations to become paid subscribers to Diode Collab.
 
 Diode Collab is the pioneering application using the Diode Network.  It is a fully end-to-end encrypted, local-first, self-custody collaboration application for teams.  It is organized like Slack, but higher security than Signal.  Organization who use Diode Collab get a higher security, lower cost alternative to centralized solutions on the market.  Further, organizational users can easily create their own Zones for other walks of life - therefore organizational adoption represents a mutually beneficial sticky network effect for [Diode](https://diode.io) and the Diode Network.
 
@@ -30,15 +30,15 @@ Diode Collab's mission is to provide the leading team collaboration solution for
 Participants are rewarded based on two things:
 
 **1) Qualified New Zones:** Rewarded when a qualified new Zone has been registered. 
-**2) Upgraded Zones:** Rewarded when a previously registered Zone is upgraded to a paid Zone
+**2) Upgraded Zones:** Rewarded when a previously registered Zone is upgraded to a paid Zone.
 
 ### Reward Mechanism
 
-All Zones must be registered by the affiliate under their referral code.  
+All Zones must be registered by the participant under their referral code.  
 
-All registrations will be reviewed.  Zones will be qualified if the registration information is filled out and represent a real potential organizational use case.  Upon qualification, the "Qualified New Zones" reward will be triggered.
+All registrations will be reviewed.  Zones will be qualified if the registration information is filled out and represent a real potential organizational use case.  Upon qualification, the "Qualified New Zones" reward will be issued.
  
-When a billing entitlement is created for a registered zone, the "Upgraded Zones" reward will be triggered.
+When a billing entitlement is created for a registered zone, the "Upgraded Zones" reward will be issued.
 
 ### Reward Calculation
 
