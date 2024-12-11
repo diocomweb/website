@@ -14,6 +14,11 @@ nav_order: 3
 The Diode Affiliate Program pays a commission to Affiliates for approved Subscriptions to Diode products.  It is a collaboration between the [Diode Foundation](https://diode.foundation) and [Diode](https://diode.io).  
 
 To participate, see here: [Diode's Affiliate Program](https://docs.diode.io/docs/affiliate/affiliate-program/).
-  
+
+## Governance
+
+The Referral Code system is governed based on the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html).
+
+The Affiliate Program activities require a Referral Code, and are then governed by [Diode's Affiliate terms](https://diode.io/affiliate).
 
 
