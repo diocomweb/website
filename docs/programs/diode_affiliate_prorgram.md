@@ -19,6 +19,6 @@ To participate, see here: [Diode's Affiliate Program](https://docs.diode.io/docs
 
 The Referral Code system is governed by the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html).
 
-The Affiliate Program activities require a Referral Code, and are then governed by the [Diode Affiliate Program terms](https://diode.io/affiliate).
+Affiliate activities (which require a Referral Code) are governed by the [Diode Affiliate Agreement](https://diode.io/affiliate).
 
 
