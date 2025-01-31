@@ -2,7 +2,7 @@
 layout: default
 title: Diode Referral Program
 parent: Programs
-nav_order: 1
+nav_order: 2
 ---
 
 # Diode Referral Program
