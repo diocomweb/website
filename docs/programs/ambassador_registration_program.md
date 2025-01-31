@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Overview
 
-This goal of this program is to grow an ecosystem to promote Diode, and ultimately expand the use of the Diode Network and a more secure Internet.  
+**Goal:** grow an ecosystem that promotes Diode, ultimately expanding the use of the Diode Network and a more secure Internet!  
 
 We want everyone to tell others : 1) How Diode is the best tool for private and secure communications 2) You can earn rewards by joining the Diode referral program!
 
