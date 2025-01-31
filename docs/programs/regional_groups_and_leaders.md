@@ -5,13 +5,13 @@ parent: Programs
 nav_order: 1
 ---
 
-The Diode Foundation structures its worldwide ecosystem around regional groups, each led by one or more regional leaders. 
+The Diode Foundation structures its worldwide ecosystem around [regional groups](https://diode.foundation/docs/programs/regional_groups_and_leaders.html#regional-groups), each led by one or more regional leaders. See [here for a list of Regional Groups](https://diode.foundation/docs/programs/regional_groups_and_leaders.html#regional-groups) you can join.
 
 # Forming a Regional Group
 
 If you are interested in forming a Regional Group, please reach out to us via our [Discord](https://discord.gg/qdGCAKJdHs) in the in the [Diode Community Zone](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC).
 
-A large country or provice may have multiple regional groups.
+A large country or provice may have multiple regional groups.  
 
 # Becoming a Regional Leader
 
