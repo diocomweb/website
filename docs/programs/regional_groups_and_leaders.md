@@ -11,6 +11,8 @@ The Diode Foundation structures its ecosystem efforts around regional groups, ea
 
 If you are interested in forming a Regional Group, please reach out to us via our [Discord](https://discord.gg/qdGCAKJdHs) in the in the [Diode Community Zone](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC).
 
+A large country or provice may have multiple regional groups.
+
 # Becoming a Regional Leader
 
 We've found the best Regional Leaders typically go through these steps:
@@ -31,11 +33,14 @@ Other resources can be made available to Regional Leaders to assist with growing
    
 # Core Activities
 
-Although every region will be unique, all have a set of core activities that collectively greatly impact the health of the ecosystem.  A large country or provice may have multiple regional groups.
+More information on these core activities are below:
+** 1 - Grow Active Relay Nodes**
+** 2 - Grow Active Members**
+** 3 - Support Your Group!**
 
-After a regional leader is chosen for a group, the team will book a kickoff call to set goals for the three activites below.
+After a regional leader is chosen for a group, the team will book a kickoff call to set goals for these activites.
 
-## 1) Relay Nodes
+## 1) Grow Active Relay Nodes
 
 Each region should grow a regional network of relay nodes dispersed to service local devices and users. 
 
@@ -45,7 +50,7 @@ The deployment goals vary per region based on population, infrastructure, and re
 
 Every active Relay Node gets rewards, and each person in the "Referral Hierarchy" that referred the Node runner also receives rewards.
 
-## 2) Regional Collaboration Zone
+## 2) Grow Active Members
 
 Each regional group will have a Diode Collab Zone for group coordination, communication, and collaboration.
 
@@ -53,7 +58,7 @@ The regional leader should maintain the zone for their region. Although other fo
 
 Every active Regional Collaboration Zone gets rewards, and each person in the "Referral Hierarchy" that referred the Zone runner also receives rewards.
 
-## 3) Support and Updates in Local Language
+## 3) Support Your Group!
 
 If Diode Collab does not yet support the local language, a key regional activity is contributing to a crowd-sourced translation for the app.
 
