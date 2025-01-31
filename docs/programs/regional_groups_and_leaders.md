@@ -75,7 +75,7 @@ If you are interested in forming a Regional Group, please reach out to us via ou
 
 # Becoming a Regional Leader
 
-We've found the best Regional Leaders typically go through these three steps:
+We've found the best Regional Leaders typically go through these steps:
 
 1. Already have a passion for secure, private, and unblockable communications and decentralized technologies
 2. Join the Discord or Diode Community Zone and begin contributing to the discussion
