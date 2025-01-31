@@ -9,9 +9,7 @@ nav_order: 1
 
 ## Overview
 
-**Goal:** grow an ecosystem that promotes Diode, ultimately expanding the use of the Diode Network and a more secure Internet!  
-
-We want everyone to tell others : 1) How Diode is the best tool for private and secure communications 2) You can earn rewards by joining the Diode referral program!
+This program is all about growing an ecosystem that promotes Diode, ultimately expanding the use of the Diode Network and a more secure Internet!  
 
 See an [overview of the Diode Foundation Ecosystem Rewards here](https://docsend.com/view/59p6h6sqhap7f264).
 
@@ -59,13 +57,13 @@ If you don't have a referral code from a friend, you can register with a regiona
 | USA - Mountain | QWSPJXPNKKCEXAYGXOUO |
 | USA - PNW and Pacific | YUJMMLSEAUWFXNJLDPNQ |
 
-## Goals
+## Key Actions
 
-To grow the supply of, and demand for, bandwidth on the Diode Network.  
+We want everyone to tell others : 1) How Diode is the best tool for private and secure communications 2) You can earn rewards by joining the Diode referral program!
 
 ## Rewards
 
-Everyone participating in the referral program will also be eligible for reward programs, such as the [Bandwidth Growth Program](/docs/programs/bandwidth_growth_program.html), other programs, and airdrops.
+Everyone participating in the referral program will also be eligible for [reward programs](https://docsend.com/view/59p6h6sqhap7f264), such as the [Bandwidth Growth Program](/docs/programs/bandwidth_growth_program.html), other programs, and airdrops.
 
 ## Governance
 
