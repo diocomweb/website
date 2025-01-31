@@ -5,7 +5,7 @@ parent: Programs
 nav_order: 1
 ---
 
-The Diode Foundation structures its ecosystem efforts around regional groups, each led by one or more regional leaders. 
+The Diode Foundation structures its worldwide ecosystem around regional groups, each led by one or more regional leaders. 
 
 # Forming a Regional Group
 
