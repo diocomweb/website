@@ -11,7 +11,7 @@ nav_order: 1
 
 This goal of this program is to grow an ecosystem to promote Diode, and ultimately expand the use of the Diode Network and a more secure Internet.  
 
-We everyone to tell others : 1) How Diode is the best tool for private and secure communications 2) You can earn rewards by joining the Diode referral program!
+We want everyone to tell others : 1) How Diode is the best tool for private and secure communications 2) You can earn rewards by joining the Diode referral program!
 
 See an [overview of the Diode Foundation Ecosystem Rewards here](https://docsend.com/view/59p6h6sqhap7f264).
 
