@@ -2,7 +2,7 @@
 layout: default
 title: Diode Affiliate Program
 parent: Programs
-nav_order: 3
+nav_order: 4
 ---
 
 # Diode Affiliate Program
