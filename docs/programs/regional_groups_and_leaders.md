@@ -67,4 +67,27 @@ Being able to serve the community in their native language is a great differenti
 
 Diode's grants program is focused on builders who want to use the Diode Network to deploy inherently secure applications.  The apps and solutions builders deploy are a core source of activity Diode Network.
 
-Joining and promoting local hackathons is a great way to show others how Diode can be used.  Even if a regional leader is not themselves technical, the regional leaders should look for more technical group members who can help support builder and hackathon events .
+Joining and promoting local hackathons is a great way to show others how Diode can be used.  Even if a regional leader is not themselves technical, the regional leaders should look for more technical group members who can help support builder and hackathon events.
+
+# Forming a Regional Group
+
+If you are interested in forming a Regional Group, please reach out to us via our [Discord](https://discord.gg/qdGCAKJdHs) in the in the [Diode Community Zone](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC).
+
+# Becoming a Regional Leader
+
+We've found the best Regional Leaders typically go through these three steps:
+
+1. Already have a passion for secure, private, and unblockable communications and decentralized technologies
+2. Join the Discord or Diode Community Zone and begin contributing to the discussion
+3. Sign up for the [Diode Referral Program](/docs/programs/ambassador_registration_program.html) and refer others and bring active Nodes and/or Zones online
+4. Propose creating a Regional Group with ideas around growth and goals
+5. Lead the growth of active Nodes, Zones, content, and group members
+
+# Benefits to being a Regional Leader
+
+Regional leaders are invited to join Diode's Regional Leaders private chat where news and opportunities are presented first.  They and their groups will often have first mover advantage for new programs, incentives, and initiatives based on the information provided there.
+
+Regional Leaders who have demonstrated their ability to lead the growth of Nodes, Zones, content, and regional members will have their referral code listed prominently as the regional "Seed" referral code.
+
+Other resources can be made available to Regional Leaders to assist with growing the community and enabling them to contribute effectively to the ecosystem.
+   
