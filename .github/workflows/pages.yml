@@ -48,11 +48,11 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         # uses: actions/upload-pages-artifact@v1
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v4
         with:
           include-hidden-files: true
           # name: my-artifact-${{ matrix.runs-on }}
-          path: ./_site
+          path: _site
           
 
   # Deployment job
@@ -65,4 +65,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        #uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
