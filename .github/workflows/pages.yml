@@ -52,7 +52,7 @@ jobs:
         with:
           include-hidden-files: true
           # name: my-artifact-${{ matrix.runs-on }}
-          # path: file-${{ matrix.runs-on }}.txt
+          path: ./_site
           
 
   # Deployment job
