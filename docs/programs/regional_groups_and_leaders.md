@@ -95,4 +95,11 @@ Diode's grants program is focused on builders who want to use the Diode Network 
 
 Joining and promoting local hackathons is a great way to show others how Diode can be used.  Even if a regional leader is not themselves technical, the regional leaders should look for more technical group members who can help support builder and hackathon events.
 
+# Regional Groups
+
+| **Region** | **Zone Join Code** |
+| --- | --- |
+| USA and Global | https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC |
+| Brazil | https://diode.io/joinzone/#fuC5NLwJ8oUGKkpoDRDWukA9s6fDSrpnqAg6nZ692HYBf9g73COEo2RiWbho |
+| Taiwan | TBA |
 
