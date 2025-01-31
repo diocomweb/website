@@ -45,10 +45,10 @@ If you don't have a referral code from a friend, you can register with a regiona
 | Central America | To be announced |
 | England and Wales | XDEJZHHAQANUHCBSBAWV |
 | Germany and rest of W Europe | AYCNDICWXIQOHLINGDJD |
-| India | To be announced |
+| India | XDEJZHHAQANUHCBSBAWV |
 | Nigeria and W Africa  | LWEFGWUVBSKASSCPIAFI |
 | Philippines | XDEJZHHAQANUHCBSBAWV |
-| Scotland | LIWAMBXIISBJGTZHVVDX |
+| Scotland | XDEJZHHAQANUHCBSBAWV |
 | Rest of E Europe | To be announced |
 | Rest of S America | YFJOVUGITJVCHNQCCHIG |
 | Russia | To be announced |
