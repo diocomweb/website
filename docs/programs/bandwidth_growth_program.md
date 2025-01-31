@@ -2,7 +2,7 @@
 layout: default
 title: Bandwidth Growth Program
 parent: Programs
-nav_order: 2
+nav_order: 3
 ---
 
 # Bandwidth Growth Program
