@@ -33,12 +33,11 @@ Other resources can be made available to Regional Leaders to assist with growing
    
 # Core Activities
 
-More information on these core activities are below:
-** 1 - Grow Active Relay Nodes**
-** 2 - Grow Active Members**
-** 3 - Support Your Group!**
+**1 - Grow Active Relay Nodes**
+**2 - Grow Active Members**
+**3 - Support Your Group!**
 
-After a regional leader is chosen for a group, the team will book a kickoff call to set goals for these activites.
+More information on these core activities are below.  After a regional leader is chosen for a group, the team will book a kickoff call to set goals for these activites.
 
 ## 1) Grow Active Relay Nodes
 
