@@ -97,9 +97,9 @@ Joining and promoting local hackathons is a great way to show others how Diode c
 
 # Regional Groups
 
-| **Region** | **Zone Join Code** |
-| --- | --- |
-| USA and Global | https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC |
-| Brazil | https://diode.io/joinzone/#fuC5NLwJ8oUGKkpoDRDWukA9s6fDSrpnqAg6nZ692HYBf9g73COEo2RiWbho |
-| Taiwan | TBA |
+| **Region** |
+| --- |
+| [USA and Global](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC) |
+| [Brazil](https://diode.io/joinzone/#fuC5NLwJ8oUGKkpoDRDWukA9s6fDSrpnqAg6nZ692HYBf9g73COEo2RiWbho) |
+| Taiwan |
 
