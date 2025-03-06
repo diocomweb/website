@@ -44,7 +44,7 @@ If you don't have a referral code from a friend, you can register with a regiona
 | England and Wales | XDEJZHHAQANUHCBSBAWV |
 | Germany and rest of W Europe | AYCNDICWXIQOHLINGDJD |
 | India | XDEJZHHAQANUHCBSBAWV |
-| Nigeria and W Africa  | LWEFGWUVBSKASSCPIAFI |
+| Nigeria and W Africa  | GJFQKPKQXTUDGDCEFLSG |
 | Philippines | XDEJZHHAQANUHCBSBAWV |
 | Scotland | XDEJZHHAQANUHCBSBAWV |
 | Rest of E Europe | To be announced |
