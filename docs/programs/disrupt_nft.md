@@ -15,7 +15,7 @@ Where traditional secure communication networks are closed silos, only available
 
 The Diode Foundation has issued a limited mint “Disrupt NFT” (8,500 NFTs) for backers of the Diode Network’s disruption trajectory. NFT holders receive a quarterly yield based in proportion to the commercial traction of the project, and can liquidate the NFT for 20 DIODE (following a 3 month holding period).  
 
-For eligible persons, the NFT can be acquired at https://diodenetwork.io/token
+For eligible persons, the NFT can be acquired at [https://diodenetwork.io/token](https://diodenetwork.io/token).
 
 ## How to acquire
 
@@ -31,9 +31,9 @@ Only those residing in regions where the NFT terms are legal may acquire the NFT
   * If you can't already easily get USDC.wh and Glimmer you'll need to swap some from USDC (Ethereum)
     * a) Send USDC (Ethereum) to your wallet for NFT purchase
     * b) Send Ethereum (Ethereum) to your wallet for gas
-    * c) Get Glimmer -> use https://app.stellaswap.com/exchange/cross-chain-swap to swap USDC (Ethereum) to Glimmer (Moonbeam)
-    * d) Get USDC.wh -> use https://portalbridge.com/ to swap USDC (Ethereum) to USDC (Moonbeam) (called USDC wrapped on that interface)
-2. Goto https://diodenetwork.io/token and choose how many NFTs you want
+    * c) Get Glimmer -> use [https://app.stellaswap.com/exchange/cross-chain-swap](https://app.stellaswap.com/exchange/cross-chain-swap) to swap USDC (Ethereum) to Glimmer (Moonbeam)
+    * d) Get USDC.wh -> use [https://portalbridge.com/](https://portalbridge.com/) to swap USDC (Ethereum) to USDC (Moonbeam) (called USDC wrapped on that interface)
+2. Goto [https://diodenetwork.io/token](https://diodenetwork.io/token) and choose how many NFTs you want
   * The card will show you the next available NFT slot number
   * You enter the range of slots you want to buy (e.g. 50 - 60) and it will show you the price
   * In Metamask, select your EVM wallet with the USDC.wh and Glimmer
@@ -42,8 +42,8 @@ Only those residing in regions where the NFT terms are legal may acquire the NFT
   * If you aren't already connected to Metamask, Metamask will pop open and ask to connect (if you are already connected, you will go to the next step right away)
   * If you have sufficient balance for the purchase, Metamask will ask you to confirm the purchase transaction - click "Confirm"
   * After completing that transaction, Metamask will ask you confirm the NFT transfer transaction - click "Confirm"
-  * The https://diodenetwork.io/token will show you a Success screen with a link to the transaction information
+  * The [https://diodenetwork.io/token](https://diodenetwork.io/token) will show you a Success screen with a link to the transaction information
 
 ## Terms
 
-[In additionl the Referral Program Terms](https://diode.foundation/docs/programs/disrupt_nft_terms.html)
+The Disrupt NFT program is a Diode Referral Program and is governed by the [Referral Program Terms](https://diode.foundation/docs/programs/terms.html) and the following embellishments:
