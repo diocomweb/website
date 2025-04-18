@@ -46,4 +46,4 @@ Only those residing in regions where the NFT terms are legal may acquire the NFT
 
 ## Terms
 
-[Please find the terms here](https://diode.foundation/docs/programs/disrupt_nft_terms.html)
+[In additionl the Referral Program Terms](https://diode.foundation/docs/programs/disrupt_nft_terms.html)
