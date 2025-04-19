@@ -6,6 +6,7 @@ nav_order: 4
 ---
 
 # Disrupt NFT
+<img title="Disrupt NFT #1" alt="Disrupt NFT #1 image" width="256" src="https://arweave.net/LSOxjP0412fFwXEiz-6wVVkiVULyo2JWoW__1kFGgiY">
 
 ## Overview
 
