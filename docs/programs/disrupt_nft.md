@@ -80,7 +80,7 @@ After an initial 90 day holding period, the NFT may be liquidated in exchange fo
 All official communications related to the Disrupt NFT, including Yield announcements, will be made in the [Disrupt NFT zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2).
 
 ### Term and Termination
-The Diode Foundation may elect to pause or stop new NFT sales at any time. The Diode Foundation may terminate the program at any time following April 1, 2025. After program termination, NFTs will not be paid yield, but may be liquidated per these terms.
+The Diode Foundation may elect to pause or stop new NFT sales at any time. The Diode Foundation may terminate the program at any time following March 31, 2026. After program termination, NFTs will not be paid yield, but may be liquidated per these terms.
 
 
 
