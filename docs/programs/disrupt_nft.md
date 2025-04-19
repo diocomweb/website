@@ -9,12 +9,14 @@ nav_order: 4
 <img title="Disrupt NFT #1" alt="Disrupt NFT #1 image" width="256" src="https://arweave.net/LSOxjP0412fFwXEiz-6wVVkiVULyo2JWoW__1kFGgiY">
 
 ## Overview
+The Diode Foundation has issued a limited mint “Disrupt NFT” (8,500 NFTs) for backers of the Diode Network’s disruption trajectory. 
 
 Diode’s vision is to transform the Internet into everyone’s private network. The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN.
 
 Where traditional secure communication networks are closed silos, only available in certain regions, and expensive to use, the Diode Network requires no accounts, is available everywhere, and can support the economics of every use case. It delivers secure communication for commodity price of bandwidth.  
 
-The Diode Foundation has issued a limited mint “Disrupt NFT” (8,500 NFTs) for backers of the Diode Network’s disruption trajectory. NFT holders receive a quarterly yield based in proportion to the commercial traction of the project, and can liquidate the NFT for 20 DIODE (following a 3 month holding period).  
+## Yield and Value
+NFT holders receive a quarterly yield based in proportion to the commercial traction of the project, and can liquidate the NFT for 20 DIODE (following a 3 month holding period).  
 
 ## Who is eligible?
 Only those residing in regions where the NFT terms are legal may acquire the NFT.  There are limited exemptions available to certain restricted regions - join the [Disrupt NFT zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2) and contact an Admin for more information.
