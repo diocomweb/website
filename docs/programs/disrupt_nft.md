@@ -52,11 +52,33 @@ For eligible persons, the NFT can be acquired at [https://diodenetwork.io/token]
 
 ## Terms
 
-The Disrupt NFT program is a Diode Referral Program and is governed by the [Referral Program Terms](https://diode.foundation/docs/programs/terms.html) and the following embellishments:
+The Disrupt NFT program is a Diode Referral Program and is governed by the [Referral Program Terms](https://diode.foundation/docs/programs/terms.html) and the following terms:
 
-### Eligible Holders
+### Acceptance
 
-Only people who reside in regions where the Disrupt NFT program complies with the relevant restrictions on digital assets in their jurisdiction are eligible to hold this NFT.  If your region has relevant restrictions, please [join the Disrupt NFT zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2) and chat with an Admin to explore available exemptions.
+When puchasing the NFT, by clicking "I Accept" on the purchase page for the NFT, you accept the Referral Program Terms and these terms.  By proceeding with the purchase of an NFT, you acknowledge that you have read, understood, and agree to be bound by these terms and the associated risks. If you do not agree with these terms, do not proceed with the purchase.
+
+You acknowledge and agree that you are solely responsible for evaluating the risks and merits of the transaction. You assume all financial, regulatory, and legal risks associated with the purchase, ownership, and potential resale of the NFT. This includes, but is not limited to, risks related to market volatility, technological issues, cybersecurity threats, regulatory changes, and the lack of liquidity in NFT markets. We strongly recommend consulting with financial, legal, and tax advisors before purchasing an NFT.
+
+Further, you warrant that you are a Eligible Holder and agree to hold the Diode Foundation, Diode, and its officers and assigns harmless from and against any and all claims, damages and expenses (including reasonable attorneys’ fees and costs of litigation) by any third party resulting from any acts or omissions you may make in connection with this Agreement, your breach of this Agreement, or your misrepresentations relating to the Diode Foundation, the Diode Network, Diode, or this Agreement, regardless of the form of action.
+
+### Eligible Holders and Regulatory Compliance
+
+Only people who reside in regions where the Disrupt NFT program complies with the relevant restrictions on digital assets in their jurisdiction, or those with a valid exemption, are eligible to hold this NFT (an "Eligible Holder").  If your region has relevant restrictions, please [join the Disrupt NFT zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2) and chat with an Admin to explore available exemptions.
+
+The sale of this NFT is intended to comply with applicable U.S. securities laws, including exemptions under Regulation D of the Securities Act of 1933, as amended. In the USA, this offering is limited to accredited investors, as defined under Rule 501 of Regulation D, unless otherwise specified. Buyers are responsible for ensuring their eligibility to participate in this offering and for complying with all applicable local, state, and federal laws.
+
+###  Risk Warning
+
+The purchase of Non-Fungible Tokens (NFTs) involves significant risks and is highly speculative. The value of an NFT is not guaranteed and may fluctuate widely, potentially resulting in a total loss of value. The price you pay for an NFT may not reflect its future market value, and there is no assurance that you will be able to sell or transfer the NFT at a profit, or at all. Past performance or perceived value of NFTs, cryptocurrencies, or related assets is not indicative of future results.
+
+### No Guarantees or Warranties
+
+The Diode Foundation makes no representations or warranties regarding the authenticity, uniqueness, or future value of the NFT. The NFT is provided "as is," and we disclaim any liability for losses or damages arising from your purchase or ownership of the NFT, to the fullest extent permitted by law.
+
+### Tax and Legal Considerations
+
+The purchase and ownership of NFTs may have tax implications, including potential capital gains or income tax obligations. You are solely responsible for understanding and fulfilling any tax or legal obligations related to your NFT purchase. The Diode Foundation does not provide tax, legal, or financial advice.
 
 ### Smart Contract Precedence
 
@@ -66,7 +88,9 @@ The Disrupt NFT is issue via an automated smart contract - where these terms dif
 
 A maximum of 8,500 Disrupt NFTs will be made available from the NFT contract residing on Moonbeam at address , visible on Moonscan at [](). Each NFT is numbered: 1 through 8,500, such number contained in the NFT metadata, the NFT image, and in the NFT contract.
 
-### Pricing
+### Purchases and Pricing
+All NFT purchases are final, and no refunds or exchanges will be provided unless explicitly stated otherwise.
+
 Before the token unlocking date, the NFT can only be purchased for USDC.  After the token unlocking date, the NFT can be purchased for the next numbered NFT price in USDC, or for 20 DIODE tokens.  Each numbered NFT sells for $0.02 more than the previous NFT in USDC, starting at $15 USDC for NFT #1.  For example, NFT #1 will cost $15 USDC, and NFT #8,500 will cost $184.98 USDC. 
 
 ### Yield
