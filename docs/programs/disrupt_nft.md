@@ -29,6 +29,7 @@ For eligible persons, the NFT can be acquired at [https://diodenetwork.io/token]
   * You will need to have USDC.wh on the Moonbeam network (USDC.wh is USDC wrapped by Wormhole) and Glimmer on the Moonbeam network to buy the NFT(s)
   * If you can get these tokens from an exchange, great - send the amount of USDC.wh you want to spend on NFTs to your EVM wallet, and send 5 Glimmer for gas to the same wallet
   * If you can't already easily get USDC.wh and Glimmer you'll need to swap some from USDC (Ethereum)
+
     * a) Send USDC (Ethereum) to your wallet for NFT purchase
     * b) Send Ethereum (Ethereum) to your wallet for gas
     * c) Get Glimmer -> use [https://app.stellaswap.com/exchange/cross-chain-swap](https://app.stellaswap.com/exchange/cross-chain-swap) to swap USDC (Ethereum) to Glimmer (Moonbeam)
