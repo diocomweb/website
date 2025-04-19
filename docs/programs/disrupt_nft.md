@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # Disrupt NFT
-<img title="Disrupt NFT #1" alt="Disrupt NFT #1 image" width="256" src="https://arweave.net/LSOxjP0412fFwXEiz-6wVVkiVULyo2JWoW__1kFGgiY">
+<img title="Disrupt NFT #1" alt="Disrupt NFT #1 image" width="256" src="https://arweave.net/LSOxjP0412fFwXEiz-6wVVkiVULyo2JWoW__1kFGgiY" style="box-shadow: 0 5px 15px rgba(183, 92, 115, 0.1)">
 
 ## Overview
 The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN that delivers secure communication for the cost of commodity bandwidth.
