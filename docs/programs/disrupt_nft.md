@@ -9,11 +9,9 @@ nav_order: 4
 <img title="Disrupt NFT #1" alt="Disrupt NFT #1 image" width="256" src="https://arweave.net/LSOxjP0412fFwXEiz-6wVVkiVULyo2JWoW__1kFGgiY">
 
 ## Overview
+The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN that delivers secure communication for the cost of commodity bandwidth.
+
 The Diode Foundation has issued a limited mint “Disrupt NFT” (8,500 NFTs) for backers of the Diode Network’s disruption trajectory. 
-
-The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN.
-
-Where traditional secure communication networks are closed silos, only available in certain regions, and expensive to use, the Diode Network requires no accounts, is available everywhere, and can support the economics of every use case. It delivers secure communication for commodity price of bandwidth.  
 
 ## Yield and Value
 NFT holders receive a quarterly yield based in proportion to the commercial traction of the project, and can liquidate the NFT for 20 DIODE (following a 3 month holding period).  
