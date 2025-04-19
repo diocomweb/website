@@ -11,7 +11,7 @@ nav_order: 4
 ## Overview
 The Diode Foundation has issued a limited mint “Disrupt NFT” (8,500 NFTs) for backers of the Diode Network’s disruption trajectory. 
 
-Diode’s vision is to transform the Internet into everyone’s private network. The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN.
+The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN.
 
 Where traditional secure communication networks are closed silos, only available in certain regions, and expensive to use, the Diode Network requires no accounts, is available everywhere, and can support the economics of every use case. It delivers secure communication for commodity price of bandwidth.  
 
