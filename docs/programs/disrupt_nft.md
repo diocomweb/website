@@ -8,6 +8,8 @@ nav_order: 4
 # Disrupt NFT
 <img title="Disrupt NFT #1" alt="Disrupt NFT #1 image" width="256" src="https://arweave.net/LSOxjP0412fFwXEiz-6wVVkiVULyo2JWoW__1kFGgiY" style="box-shadow: 0 5px 15px rgba(183, 92, 115, 0.1)">
 
+NFT Address: [https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7)
+
 ## Overview
 The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN that delivers secure communication for the cost of commodity bandwidth.
 
@@ -80,11 +82,11 @@ The purchase and ownership of NFTs may have tax implications, including potentia
 
 ### Smart Contract Precedence
 
-The Disrupt NFT is issue via an automated smart contract - where these terms differ from the smart contract's functionality, the smart contract takes precedence.
+The Disrupt NFT is issue via an automated [smart contract on the Moonbeam Network](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7) - where these terms differ from the smart contract's functionality, the smart contract takes precedence.
 
 ### On Chain Limited Mint
 
-A maximum of 8,500 Disrupt NFTs will be made available from the NFT contract residing on Moonbeam at address , visible on Moonscan at [](). Each NFT is numbered: 1 through 8,500, such number contained in the NFT metadata, the NFT image, and in the NFT contract.
+A maximum of 8,500 Disrupt NFTs will be made available from the NFT contract residing on Moonbeam at address , visible on Moonscan at [address 0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7). Each NFT is numbered: 1 through 8,500, such number contained in the NFT metadata, the NFT image, and in the NFT contract.
 
 ### Purchases and Pricing
 All NFT purchases are final, and no refunds or exchanges will be provided unless explicitly stated otherwise.
