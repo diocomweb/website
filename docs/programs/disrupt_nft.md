@@ -35,6 +35,8 @@ For eligible persons, the NFT can be acquired at [https://diodenetwork.io/token]
     * b) Send Ethereum (Ethereum) to your wallet for gas
     * c) Get Glimmer -> use [https://app.stellaswap.com/exchange/cross-chain-swap](https://app.stellaswap.com/exchange/cross-chain-swap) to swap USDC (Ethereum) to Glimmer (Moonbeam)
     * d) Get USDC.wh -> use [https://portalbridge.com/](https://portalbridge.com/) to swap USDC (Ethereum) to USDC (Moonbeam) (called USDC wrapped on that interface)
+      
+  * Once you've successfully transferred USDC.wh to your Metamask wallet, you should be able to see the balance in the "Tokens" area.  If it doesn't automatically show up, you can adda custom token with the USDC.wh address on Moonbeam -> 0x931715FEE2d06333043d11F658C8CE934aC61D0c
    
 ### Goto [https://diodenetwork.io/token](https://diodenetwork.io/token) and choose how many NFTs you want
    
