@@ -28,15 +28,15 @@ For eligible persons, the NFT can be acquired at [https://diodenetwork.io/token]
 ### Install Metamask, create, and fund an EVM wallet
 
   * You will need to have USDC.wh on the Moonbeam network (USDC.wh is USDC wrapped by Wormhole) and Glimmer on the Moonbeam network to buy the NFT(s)
-  * If you can get these tokens from an exchange, great - send the amount of USDC.wh you want to spend on NFTs to your EVM wallet, and send 5 Glimmer for gas to the same wallet
-  * If you can't already easily get USDC.wh and Glimmer you'll need to swap some from USDC (Ethereum)
+  * If you can get these tokens from an exchange, great - send the amount of USDC.wh you want to spend on NFTs to your EVM wallet, and send 5 GLMR for gas to the same wallet (both on the Moonbeam network)
+  * If you can't already easily get USDC.wh and GLMR you'll need to swap some from USDC (Ethereum)
 
     * a) Send USDC (Ethereum) to your wallet for NFT purchase
     * b) Send Ethereum (Ethereum) to your wallet for gas
-    * c) Get Glimmer -> use [https://app.stellaswap.com/exchange/cross-chain-swap](https://app.stellaswap.com/exchange/cross-chain-swap) to swap USDC (Ethereum) to Glimmer (Moonbeam)
-    * d) Get USDC.wh -> use [https://portalbridge.com/](https://portalbridge.com/) to swap USDC (Ethereum) to USDC (Moonbeam) (called USDC wrapped on that interface)
+    * c) Get USDC.wh -> use [https://portalbridge.com/](https://portalbridge.com/) to swap USDC (Ethereum) to USDC (Moonbeam) (called "USDC wrapped" on that interface - you can verify the USDC.wh contract address is 0x931...C61D0c)
+    * d) Get Glimmer -> use [https://app.stellaswap.com/exchange/cross-chain-swap](https://app.stellaswap.com/exchange/swap) to swap about 0.1 USDC.wh to GLMR
       
-  * Once you've successfully transferred USDC.wh to your Metamask wallet, you should be able to see the balance in the "Tokens" area.  If it doesn't automatically show up, you can adda custom token with the USDC.wh address on Moonbeam -> 0x931715FEE2d06333043d11F658C8CE934aC61D0c
+  * Once you've successfully transferred USDC.wh to your Metamask wallet, you should be able to see the balance in the "Tokens" area.  If it doesn't automatically show up, you can add a custom token with the USDC.wh address on Moonbeam -> 0x931715FEE2d06333043d11F658C8CE934aC61D0c
    
 ### Goto [https://diodenetwork.io/token](https://diodenetwork.io/token) and choose how many NFTs you want
    
