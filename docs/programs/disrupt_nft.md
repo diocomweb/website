@@ -27,34 +27,9 @@ Only those residing in regions where the NFT terms are legal may acquire the NFT
 
 ## How to acquire
 
-For eligible persons, the NFT can be acquired at [https://diodenetwork.io/token](https://diodenetwork.io/token) - look for the “Disrupt NFT” card and follow the steps below.
+For eligible persons, the NFT can be acquired at [https://diodenetwork.io/token](https://diodenetwork.io/token) - look for the “Disrupt NFT” card.
 
-### Install Metamask, create, and fund an EVM wallet
-
-  * You will need to have USDC.wh on the Moonbeam network (USDC.wh is USDC wrapped by Wormhole) and Glimmer on the Moonbeam network to buy the NFT(s)
-  * If you can get these tokens from an exchange, great - send the amount of USDC.wh you want to spend on NFTs to your EVM wallet, and send 5 GLMR for gas to the same wallet (both on the Moonbeam network)
-  * If you can't already easily get USDC.wh and GLMR you'll need to swap some from USDC (Ethereum)
-
-    * a) Send USDC (Ethereum) to your wallet for NFT purchase
-    * b) Send Ethereum (Ethereum) to your wallet for gas
-    * c) Get USDC.wh -> use [https://portalbridge.com/](https://portalbridge.com/) to swap USDC (Ethereum) to USDC (Moonbeam) (called "USDC wrapped" on that interface - you can verify the USDC.wh contract address is 0x931...C61D0c)
-    * d) Get Glimmer -> use [https://app.stellaswap.com/exchange/cross-chain-swap](https://app.stellaswap.com/exchange/swap) to swap about 0.1 USDC.wh to GLMR
-      
-  * Once you've successfully transferred USDC.wh to your Metamask wallet, you should be able to see the balance in the "Tokens" area.  If it doesn't automatically show up, you can add a custom token with the USDC.wh address on Moonbeam -> 0x931715FEE2d06333043d11F658C8CE934aC61D0c
-   
-### Goto [https://diodenetwork.io/token](https://diodenetwork.io/token) and choose how many NFTs you want
-   
-  * The card will show you the next available NFT slot number
-  * You enter the range of slots you want to buy (e.g. 50 - 60) and it will show you the price
-  * In Metamask, select your EVM wallet with the USDC.wh and Glimmer
-  * Click "Purchase"
-    
-### Accept the transaction in Metamask
-   
-  * If you aren't already connected to Metamask, Metamask will pop open and ask to connect (if you are already connected, you will go to the next step right away)
-  * If you have sufficient balance for the purchase, Metamask will ask you to confirm the purchase transaction - click "Confirm"
-  * After completing that transaction, Metamask will ask you confirm the NFT transfer transaction - click "Confirm"
-  * The [https://diodenetwork.io/token](https://diodenetwork.io/token) will show you a Success screen with a link to the transaction information
+For detailed instructions, follow the steps shown at [this link](https://share.diode.link/drive-u05ymy3d0ga5c9u3m0dp/rofm5v7l8q992aw8).
 
 ## Terms
 
