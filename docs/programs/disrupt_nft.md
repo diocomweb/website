@@ -8,9 +8,11 @@ nav_order: 4
 # Disrupt NFT
 <img title="Disrupt NFT #1" alt="Disrupt NFT #1 image" width="256" src="https://arweave.net/LSOxjP0412fFwXEiz-6wVVkiVULyo2JWoW__1kFGgiY" style="box-shadow: 0 5px 15px rgba(183, 92, 115, 0.1)">
 
-NFT Address: [https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7)
+[NFT Address](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7)
 
-To discuss, [join the Diode Disrupt NFT Zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2)
+[Get it on the Diode Network Site](https://diodenetwork.io/token](https://diodenetwork.io/token)
+
+[To discuss, join the Diode Disrupt NFT Zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2)
 
 ## Overview
 The Diode Foundation’s mission is to disrupt the $7B secure communication market with the Diode Network – an open and permissionless secure communication DePIN that delivers secure communication for the cost of commodity bandwidth.
