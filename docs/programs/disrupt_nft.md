@@ -19,7 +19,9 @@ The Diode Foundation’s mission is to disrupt the $7B secure communication mark
 The Diode Foundation has issued a limited mint “Disrupt NFT” (8,500 NFTs) for backers of the Diode Network’s disruption trajectory. 
 
 ## Yield and Value
-NFT holders receive a quarterly yield based in proportion to the commercial traction of the project, and can liquidate the NFT for 20 DIODE (following a 3 month holding period).  
+NFT holders receive a quarterly yield based in proportion to the commercial traction of the project, and can liquidate the NFT for 20 DIODE (following a 3 month holding period).
+
+See [here](https://share.diode.link/drive-x26xhd8bglszws4sl2qq/nl00d19mezbtrv9l) for yields per numbered NFT.
 
 ## Who is eligible?
 Only those residing in regions where the NFT terms are legal may acquire the NFT.  There are limited exemptions available to certain restricted regions - join the [Disrupt NFT zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2) and contact an Admin for more information.
