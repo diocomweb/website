@@ -88,8 +88,10 @@ If the Diode Foundation becomes aware that a given holder is not eligible, yield
 ### Other Benefits
 The Diode Founndation, in its sole discretion, may make other benefits available to eligible Disrupt NFT holders.
 
-### Liquidation
-After an initial 90 day holding period, the NFT may be liquidated in exchange for 20 DIODE tokens at any time (upon liquidation, the NFT holder’s wallet will receive 20 DIODE tokens). After liquidation, no more yield will be paid.
+### Liquidation and Secondary Sales
+Except holders falling under the USA Regulation D exemption, after an initial 90 day holding period, the NFT may be liquidated in exchange for 20 DIODE tokens at any time (upon liquidation, the NFT holder’s wallet will receive 20 DIODE tokens). After liquidation, no more yield will be paid.
+
+Holders falling under the USA Regulation D exemption are prohibited from reselling the NFTs without compliance with security laws, which at minimum require a holding period as described in Rule 144 of Regulation D.
 
 ### Communications
 All official communications related to the Disrupt NFT, including Yield announcements, will be made in the [Disrupt NFT zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2).
