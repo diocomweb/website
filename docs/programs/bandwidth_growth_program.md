@@ -69,7 +69,11 @@ You must register your Relay Node in order to attributed rewardable traffic to y
 
 ## Governance
 
-**Please do NOT register a node that does not belong to you - this may result in your being banned from the system**
+**The following activities are bannable offenses:**
+
+* Registering a node or zone that does not belong to you
+* Falsifying data from a node or zone
+* Creation of multiple user identities by the same person in order to acquire referral points 
 
 The Diode Community DAO is responsible for governance of this program.  For example, the DAO will decide whether to continue the program after the first 36 months.
 
@@ -77,7 +81,6 @@ All Relay Node registrations are valid for 36 months only, after which the Relay
 
 Unallocated Bandwidth Boost Award, if any, will be added to the following month’s Bandwidth Growth Program Pool.
 
-Please **DO NOT** Register a node that does not belong to you - this may result in your being banned from the system
   
 
 
