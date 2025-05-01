@@ -40,7 +40,7 @@ Certain of the Programs may include rewards given to the Participant that may be
 This Agreement shall automatically renew on a monthly basis unless otherwise terminated as set forth herein.
 
 ### 6. Termination
-Participant may terminate this Agreement at any time prior to the expiration of the initial or any renewal term. the Diode Foundation in its sole discretion, may terminate this Agreement without cause and without liability upon thirty (30) days' prior notice to Participant for any reason.  Notwithstanding the termination of this Agreement for any reason, the provisions of this Agreement that by their nature survive termination will continue to apply.
+Participant may terminate this Agreement at any time prior to the expiration of the initial or any renewal term. The Diode Foundation in its sole discretion, may terminate this Agreement without cause and without liability upon thirty (30) days' prior notice to Participant for any reason, or immediately upon Participant's violation of these terms retroactively to the date of the violation.  Notwithstanding the termination of this Agreement for any reason, the provisions of this Agreement that by their nature survive termination will continue to apply.
 
 ### 7. Changes to Agreement Terms
 The Diode Foundation may make changes to this Agreement from time to time, and will post the changes to the [Diode Foundation's Program terms page](/docs/programs/terms.html), and will make commercially reasonable efforts to notify participants. 
