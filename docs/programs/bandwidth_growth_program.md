@@ -33,7 +33,7 @@ Participants are rewarded based on the activity of the Relay Nodes who have been
 
 ### Reward Mechanism
 
-In order to be rewarded by this program, you must have registered for a [Referral Code](/docs/programs/ambassador_registration_program.html), you must have registered your Relay Node, and your Relay Node must have provided some bandwidth to the Diode Network.  If a registered Relay Node provides bandwidth to the network, as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month, the network will calculate and distribute rewards.
+In order to be rewarded by this program, you must have registered for a [Referral Code](/docs/programs/ambassador_registration_program.html), you must have registered your Relay Node, and your Relay Node must have provided some bandwidth to the Diode Network (as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month), and must be online for the majority of the epoch - including within 24 hours of the close of the epoch.  If a registered Relay Node achieves these requirements, they will be eligible for rewards.
 
 ### Reward Calculation
 
