@@ -74,6 +74,7 @@ You must register your Relay Node in order to attributed rewardable traffic to y
 * Registering a node or zone that does not belong to you
 * Falsifying data from a node or zone
 * Creation of multiple user identities by the same person in order to acquire referral points
+* Sending fake data to the relay node in order to increase points
 * Otherwise attempting to game the system in ways that are not aligned with the Diode Foundation's purpose or the program's goals
 
 The Diode Community DAO is responsible for governance of this program.  For example, the DAO will decide whether to continue the program after the first 36 months.
