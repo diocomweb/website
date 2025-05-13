@@ -33,11 +33,24 @@ Participants are rewarded based on the activity of the Relay Nodes who have been
 
 ### Reward Mechanism
 
-In order to be rewarded by this program, you must have registered for a [Referral Code](/docs/programs/ambassador_registration_program.html), you must have registered your Relay Node, and your Relay Node must have provided some bandwidth to the Diode Network (as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month), and must be online for the majority of the epoch - including within 24 hours of the close of the epoch (points reset to 0 if no valid contributions in the past 24 hours).  If a registered Relay Node achieves these requirements, they will be eligible for rewards.
+In order to be rewarded by this program, you must:
+
+- register for a [Referral Code](/docs/programs/ambassador_registration_program.html)
+- registerr your Relay Node
+- ensure your Relay Node provides some bandwidth to the Diode Network (as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month)
+- keep your Relay Node online for the majority of the epoch - including within 24 hours of the close of the epoch (points reset to 0 if no valid contributions in the past 24 hours)
+  
+If a registered Relay Node achieves these requirements, they will be eligible for rewards.
 
 ### Reward Calculation
 
-When Bandwidth Rewards are deployed at the end of each month, the percentage of the total network rewards that each Relay Node receives is calculated as its “Relay Bandwidth Contribution”. Based on its Relay Bandwidth Contribution, if a Relay Node has registered for the program, a “Bandwidth Boost Award” may be allocated to the Relay Node from a monthly Bandwidth Growth Program pool amount. This allocation is then distributed to the Relay Node, and the antecedents of the Referral Code under which it was registered, all the way up to the top Seed Referral Code.
+When Bandwidth Rewards are deployed at the end of each month, the percentage of the total network rewards that each Relay Node receives is calculated as its “Relay Bandwidth Contribution”. Based on its Relay Bandwidth Contribution, if a Relay Node has registered for the program, a “Bandwidth Boost Award” may be allocated to the Relay Node from a monthly Bandwidth Growth Program pool amount. Please note that each Node's Bandwidth Boost Award may be subject to certain scalars, including:
+
+- NFTs that may provide a points boost as listed in the Diode Network points dashboard
+- Node staking or balance thresholds as communicated for the given Epoch
+- Fleet-specific ratios
+
+Bandwidth Boost Award allocations are distributed to the Relay Node's owner, and the antecedents of the Referral Code under which it was registered, all the way up to the top Seed Referral Code.
 
 The reward for all antecedents under the Seed Referral Code is based on the geometric progression r = b * 0.5^h,  where r is the relevant antecedent reward, b is the relay’s total allocated Bandwidth Boost Award, and h is the height of the antecedent relative to the relay (e.g. the relay has a height of 1, it’s parent has a height of 2).
 
