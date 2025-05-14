@@ -39,6 +39,7 @@ In order to be rewarded by this program, you must:
 - register your Relay Node
 - ensure your Relay Node provides some bandwidth to the Diode Network (as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month)
 - keep your Relay Node online for the majority of the epoch - including within 24 hours of the close of the epoch (points reset to 0 if no valid contributions in the past 24 hours)
+- if required, ensure your Relay Node has a minimum DIODE balance, as communicated for the given Epoch
   
 If a registered Relay Node achieves these requirements, they will be eligible for rewards.
 
@@ -47,7 +48,7 @@ If a registered Relay Node achieves these requirements, they will be eligible fo
 When Bandwidth Rewards are deployed at the end of each month, the percentage of the total network rewards that each Relay Node receives is calculated as its “Relay Bandwidth Contribution”. Based on its Relay Bandwidth Contribution, if a Relay Node has registered for the program, a “Bandwidth Boost Award” may be allocated to the Relay Node from a monthly Bandwidth Growth Program pool amount. Please note that each Node's Bandwidth Boost Award may be subject to certain scalars, including:
 
 - NFTs that may provide a points boost as listed in the Diode Network points dashboard
-- Node staking or balance thresholds as communicated for the given Epoch
+- Node staking or balance thresholds as communicated for the given Epoch (minimum balance will be used)
 - Fleet-specific ratios
 
 Bandwidth Boost Award allocations are distributed to the Relay Node's owner, and the antecedents of the Referral Code under which it was registered, all the way up to the top Seed Referral Code.
