@@ -41,7 +41,7 @@ In order to be rewarded by this program, you must:
 - keep your Relay Node online for the majority of the epoch - including within 24 hours of the close of the epoch (points reset to 0 if no valid contributions in the past 24 hours)
 - if required, ensure your Relay Node has a minimum Registered Balance (see next)
 
-** Node Registered Balance **
+**Node Registered Balance**
 
 A node must have at least 1 DIODE balance in its wallet by the Registered Balance Cutoff (10 days after the start of the Epoch).  Whatever balance is on the node at that time will be the "Registered Balance" for the Epoch.  If the node's wallet balanced is increased, it will become the Registered Balance in the following Epoch.  If the node's wallet balance is decreased, whatever it is decreased to will become the new "Registered Balance" for the current epoch.  The Registered Balance may be updated based on these rules at any time, no less than once a day.
   
