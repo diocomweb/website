@@ -49,13 +49,19 @@ If a registered Relay Node achieves these requirements, they will be eligible fo
 
 ### Reward Calculation
 
+#### Direct Rewards
+
 When Bandwidth Rewards are deployed at the end of each month, the percentage of the total network rewards that each Relay Node receives is calculated as its “Relay Bandwidth Contribution”. Based on its Relay Bandwidth Contribution, if a Relay Node has registered for the program, a “Bandwidth Boost Award” may be allocated to the Relay Node from a monthly Bandwidth Growth Program pool amount. Please note that each Node's Bandwidth Boost Award may be subject to certain scalars, including:
 
 - NFTs that may provide a points boost as listed in the Diode Network points dashboard
 - Points leverage based on a node's Registered Balance.  Currently, a Registered Balance of 10 DIODE will earn full points, while anything less than 10 DIODE will be calculated as points * (Registered Balance / 10)
 - Fleet-specific ratios
 
-Bandwidth Boost Award allocations are distributed to the Relay Node's owner, and the antecedents of the Referral Code under which it was registered, all the way up to the top Seed Referral Code.
+#### Indirect Rewards
+
+In order to be eligible for Indirect Rewards, the participant must have some Direct Rewards, indicating a continued active participation in the program.
+
+Indirect Bandwidth Boost Award allocations are distributed to the antecedents of the Referral Code under the participant to who the active item (node, zone, referral) was registered, all the way up to the top Seed Referral Code.
 
 The reward for all antecedents under the Seed Referral Code is based on the geometric progression r = b * 0.5^h,  where r is the relevant antecedent reward, b is the relay’s total allocated Bandwidth Boost Award, and h is the height of the antecedent relative to the relay (e.g. the relay has a height of 1, it’s parent has a height of 2).
 
