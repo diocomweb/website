@@ -27,7 +27,7 @@ c) Conduct business in a manner that reflects favorably on the Diode Foundation,
 
 d) Adhere to the requirements, governance, and other guidance as listed on the applicable program page;
 
-e) Strictly avoid any and all deceptive, misleading, illegal, immoral, or unethical practices that might be detrimental to the Diode Foundation, the Diode Network, Diode, or the public;
+e) Strictly avoid any and all deceptive, misleading, illegal, immoral, or unethical practices that might be detrimental to the Diode Foundation, the Diode Network, Diode, or the public - including unsolicited spam Zone invitations and innappropriate use of diode.link URLs;
 
 f) Not make any false or misleading representations with respect to the Diode Foundation, the Diode Network, or Diode;
 
