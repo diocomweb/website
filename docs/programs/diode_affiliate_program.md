@@ -13,18 +13,25 @@ Active! Monitor the [Discord](https://discord.gg/qdGCAKJdHs) channel for details
 
 The Diode Foundation Affiliate Program pays a commission in DIODE tokens to registered Affiliates for Subscriptions to Diode products.  
 
-To participate, simply enroll in the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and set an Affiliate URL (an article or webpage promoting Diode and referencing your Referral Code).
+To participate, simply enroll in the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and set an Affiliate URL (an article or webpage promoting Diode and referencing your Referral Code).  
 
-Some things to note:
+Chat 'set affiliate-url https://mypromotionalarticle.com' to the Registrar bot to enroll.
 
-* Your Referral Code is your Affiliate Code
-* If customers use your Referral Code to sign up for a Diode Collab paid plan, they will get a 10% discount
-* You will be paid in DIODE tokens, at their currently listed price, within 10 day of the close of an Epoch (see Epoch information in the banner at [https://diodenetwork.io/](https://diodenetwork.io/app/))
-* If you also participate in other Diode Referral Program activites, such as the Bandwidth Growth Program, your status as an Affiliate may unlock additional rewards
-* The Diode Foundation Affiliate Program is mutually exclusive with the [Diode Corporation Affiliate Program](https://docs.diode.io/docs/affiliate/affiliate-program/) - if you participate in the corporation's Affiliate Program, you will not also receive DIODE rewards from the Diode Foundation Affiliate Program
-* If you are banned from the Diode Referral Program, you will not be eligible for affiliate rewards and your affiliate code will be suspended
+Chat 'help' to the Registrar bot for details.
 
 ## Governance
+The Referral Code system is governed by the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html), and these additional terms:
 
-The Referral Code system is governed by the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html).
+* The participant's Affiliate URL must promote Diode to potential customers and must list their Affiliate Code 
+* The participant's Affiliate Code is the same as their Referral Code
+* To generate rewards, the Affiliate Code must be entered as a discount / promotion code by a customer in a paid plan 
+* Customers using the code will get a 10% discount
+* A reward of 10% of the payments from the customer will be allocated to the Affiliate
+* Payments are made in DIODE tokens, at the listed/trading price at the time of payment, which shall be within 30 days of the last day of the month
+* If the participant also joins the Diode corporation's [Affiliate Program](https://docs.diode.io/docs/affiliate/affiliate-program/), they will not also receive DIODE rewards from this program
+* If the participant also joins in other Diode Referral Program activites, such as the Bandwidth Growth Program, their status as an Affiliate may unlock additional rewards
+* If the participant is banned from the Diode Referral Program, they will not be eligible for affiliate rewards and their affiliate code will be suspended
+
+
+
 
