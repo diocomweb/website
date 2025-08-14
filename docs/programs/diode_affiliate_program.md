@@ -15,9 +15,8 @@ The Diode Foundation Affiliate Program pays a commission in DIODE tokens to regi
 
 To participate, simply enroll in the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and set an Affiliate URL (an article or webpage promoting Diode and referencing your Referral Code).  
 
-Chat 'set affiliate-url https://mypromotionalarticle.com' to the Registrar bot to enroll.
-
-Chat 'help' to the Registrar bot for details.
+* Chat 'set affiliate-url https://mypromotionalarticle.com' to the Registrar bot to enroll.
+* Chat 'help' to the Registrar bot for details.
 
 ## Governance
 The Referral Code system is governed by the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html), and these additional terms:
