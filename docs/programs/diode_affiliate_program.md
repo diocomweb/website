@@ -7,7 +7,7 @@ nav_order: 4
 
 # Diode Affiliate Program
 
-Active! Monitor the [Discord](https://discord.gg/qdGCAKJdHs) channel for details.HUNJPITAGOCPQBRGHLAQ PQHBOCVWPBBWTAVWVMSV
+Active! Monitor the [Discord](https://discord.gg/qdGCAKJdHs) channel for details.
 
 ## Overview
 
