@@ -21,7 +21,7 @@ To participate, simply enroll in the [Diode Foundation Referral Program](https:/
 ## Governance
 The Referral Code system is governed by the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html), and these additional terms:
 
-* The participant must write an article, blog post, or other publicly accessible web page that promotes Diode to potential customers and that lists their Affiliate Code 
+* The participant must write an article, blog post, or other publicly accessible primary web content that promotes Diode to potential customers and that lists their Affiliate Code 
 * The participant's Affiliate Code is the same as their Referral Code
 * To generate rewards, the Affiliate Code must be entered as a discount / promotion code by a customer in a paid plan 
 * Customers using the code will get a 10% discount
