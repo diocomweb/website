@@ -11,7 +11,7 @@ Active! Monitor the [Discord](https://discord.gg/qdGCAKJdHs) channel for details
 
 ## Overview
 
-The Diode Foundation Affiliate Program pays a commission in DIODE tokens to registered Affiliates for Subscriptions to Diode products.  
+The Diode Foundation Affiliate Program pays a commission in DIODE tokens to registered Affiliates for paid subscriptions to Diode products.  
 
 To participate, simply enroll in the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and set an Affiliate URL (an article or webpage promoting Diode and referencing your Referral Code).  
 
