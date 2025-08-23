@@ -18,6 +18,16 @@ To participate, simply enroll in the [Diode Foundation Referral Program](https:/
 * Chat 'set affiliate-url https://mypromotionalarticle.com' to the Registrar bot to enroll.
 * Chat 'help' to the Registrar bot for details.
 
+## Diode Referral Program Active Affiliates
+
+In order to unlock Referral Tree Points in the Diode Referral Program, you must be an Active Affiliate. 
+
+Active Affiliate means:
+
+* Epoch 677: Be enrolled in the program
+* Epoch 678: Have at least one registered customer
+* Epoch 679 and later: Increase the number of registerd customers from the previous Epoch
+
 ## Governance
 The Referral Code system is governed by the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html), and these additional terms:
 
