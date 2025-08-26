@@ -2,7 +2,7 @@
 layout: default
 title: Disrupt NFT
 parent: Programs
-nav_order: 4
+nav_order: 6
 ---
 
 # Disrupt NFT
