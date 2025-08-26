@@ -1,0 +1,70 @@
+---
+layout: default
+title: Referral Tree
+parent: Programs
+nav_order: 4
+---
+
+# Referral Tree
+
+Active!  Monitor the [Discord](https://discord.gg/qdGCAKJdHs) for announcements.
+
+[Terms and Conditions](/docs/programs/terms.html)
+
+## Overview
+
+Participants in the Diode Referral Program are eligible to receive Referral Tree Points - also known as "Indirect Points".
+
+In order to participate in this program, you must first register for a [Referral Code](/docs/programs/ambassador_registration_program.html).
+
+## Goals
+
+A healthy ecosystem requires active ecosystem leaders.  If a given participant has referred others to the Diode Referral Program, they can be rewarded for the contributions of those they have referred as an incentive to keeping their "Referral Tree" working well for both the Diode Foundation and for themselves.
+
+## Rewards
+
+Participants are rewarded based on the activity of those they have referred, up to a maximum of their own direct rewards.  See Reward Calculation below for details.
+
+### Reward Qualifications
+
+In order to be rewarded by your Referral Tree you must:
+
+- register for a [Referral Code](/docs/programs/ambassador_registration_program.html)
+- have others who have registered with your Referral Code - each person who does so builds your "Referral Tree"
+- have individuals in your Referral Tree who have earned direct points
+- have earned directly points yourself
+- have registered for the [Diode Foundation Affiliate Program](/docs/programs/diode_affiliate_program.html)
+
+### Reward Calculation
+
+Your Referral Tree points can be a maximum of your Direct Points.  Direct Points are points earned from your contributions to various programs, like hosting nodes for the [Bandwidth Growth Program](/docs/programs/bandwdith_growth_program.html)
+
+Referral Tree points are earned when the descendants in your Referral Tree earn points.  They are calculated by awarding points to each antecedent of the participant to who the active item (node, zone, referral) was registered, all the way up to the top Seed Referral Code.
+
+The reward for all antecedents is based on the geometric progression r = b * 0.5^h,  where r is the relevant antecedent reward, b is the active participant's total Direct Points, and h is the height of the antecedent relative to the active participant (e.g. the parent of a node runner has a height of 1, their grandparent has a height of 2).
+
+The Seed Referral Code’s reward is the same as its child (r = b * 0.5^(h-1) ). In this way, the total distribution is always the same and there is no incentive to create fake descendants.
+
+An example distribution to the antecedents of an active Participant who has earned 100 points from running nodes is shown below:
+
+| Entity      | Bandwidth Boost Award |
+| ----------- | ----------- |
+| Seed Code (h=5) | 12.5 Points |
+| Child Code | 12.5 Points |
+| Grandchild | 25 Points |
+| Great Grandchild | 50 Points |
+| Node Runner (Great-Great Grandchild) (h=1) | 100 Points |
+| **Total Allocated Award** | **200 Points** |
+
+## Governance
+
+**The following activities are bannable offenses:**
+
+* Attempting to game the system in ways that are not aligned with the Diode Foundation's purpose or the program's goals
+
+The Diode Community DAO is responsible for governance of this program.  
+
+
+  
+
+
