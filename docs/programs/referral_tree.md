@@ -15,7 +15,7 @@ Active!  Monitor the [Discord](https://discord.gg/qdGCAKJdHs) for announcements.
 
 Participants in the Diode Referral Program are eligible to receive Referral Tree Points - also known as "Indirect Points".
 
-A Referral Tree is created when someone uses your Referral Code to register for the Diode Referral Program](/docs/programs/ambassador_registration_program.html) - these are your "children".  When someone else uses your child's Referral Code to register, they are your "grandchild".  In this way, a Referral Tree is built - sometimes with many members under your code.  A given participant in your Referral Tree is called your "descendant".
+A Referral Tree is created when someone uses your Referral Code to register for the [Diode Referral Program](/docs/programs/ambassador_registration_program.html) - these are your "children".  When someone else uses your child's Referral Code to register, they are your "grandchild".  In this way, a Referral Tree is built - sometimes with many members under your code.  A given participant in your Referral Tree is called your "descendant".
 
 ## Goals
 
