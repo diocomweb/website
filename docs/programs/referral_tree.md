@@ -15,27 +15,28 @@ Active!  Monitor the [Discord](https://discord.gg/qdGCAKJdHs) for announcements.
 
 Participants in the Diode Referral Program are eligible to receive Referral Tree Points - also known as "Indirect Points".
 
+A Referral Tree is created when someone uses your Referral Code to register for the Diode Referral Program](/docs/programs/ambassador_registration_program.html) - these are your "children".  When someone else uses your child's Referral Code to register, they are your "grandchild".  In this way, a Referral Tree is built - sometimes with many members under your code.  A given participant in your Referral Tree is called your "descendant".
+
 ## Goals
 
-A healthy ecosystem requires active ecosystem leaders.  If a given participant has referred others to the Diode Referral Program, they can be rewarded for their "children's" contributions as an incentive to keeping their "Referral Tree" working well for both the Diode Foundation and for themselves.
+A healthy ecosystem requires active ecosystem leaders.  If you have referred others to the Diode Referral Program, you can be rewarded for your "descendant's" contributions as an incentive to keeping your Referral Tree working well for both the Diode Foundation and for yourself.
 
 ## Rewards
 
-Participants are rewarded based on the activity of those they have referred, up to a maximum of their own direct rewards.  See Reward Calculation below for details.
+Participants are rewarded based on the activity of their descendants, up to a maximum of their own direct rewards.  See Reward Calculation below for details.
 
 ### Reward Qualifications
 
 In order to be rewarded by your Referral Tree you must:
 
-- register for a [Referral Code](/docs/programs/ambassador_registration_program.html)
-- have others who have registered with your Referral Code - each person who does so is your "child" - they are the first layer of your "Referral Tree"
-- have descendants in your Referral Tree who have earned direct points
+- be an [Active Affiliate](/docs/programs/diode_affiliate_program.html)
+- have others who have registered with your Referral Code
+- have descendants who have earned direct points
 - have earned direct points yourself
-- have registered for the [Diode Foundation Affiliate Program](/docs/programs/diode_affiliate_program.html)
 
 ### Reward Calculation
 
-Your Referral Tree points can be a maximum of your Direct Points.  Direct Points are points earned from your contributions to various programs, like hosting nodes for the [Bandwidth Growth Program](/docs/programs/bandwdith_growth_program.html)
+Your Referral Tree points can be a maximum of your Direct Points.  Direct Points are points earned from your contributions to various programs, like hosting active nodes for the [Bandwidth Growth Program](/docs/programs/bandwdith_growth_program.html)
 
 Referral Tree points are earned when a descendant in your Referral Tree earns points.  Referral Tree points are calculated by awarding points to each antecedent of the participant who registered the active item (node, zone, referral), all the way up to the top Seed Referral Code.
 
