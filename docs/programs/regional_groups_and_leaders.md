@@ -2,7 +2,7 @@
 layout: default
 title: Regional Groups and Leaders
 parent: Programs
-nav_order: 1
+nav_order: 7
 ---
 
 The Diode Foundation structures its worldwide ecosystem around [regional groups](https://diode.foundation/docs/programs/regional_groups_and_leaders.html#regional-groups), each led by one or more regional leaders. See [here for a list of Regional Groups](https://diode.foundation/docs/programs/regional_groups_and_leaders.html#regional-groups) you can join.
