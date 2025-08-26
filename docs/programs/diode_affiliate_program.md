@@ -13,14 +13,14 @@ Active! Monitor the [Discord](https://discord.gg/qdGCAKJdHs) channel for details
 
 The Diode Foundation Affiliate Program pays a commission in DIODE tokens to registered Affiliates for paid subscriptions to Diode products.  
 
-To participate, simply enroll in the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and set an Affiliate URL (an article or webpage promoting Diode and referencing your Referral Code).  
+To participate, simply enroll in the [Diode Foundation Referral Program](/docs/programs/ambassador_registration_program.html) and set an Affiliate URL (an article or webpage promoting Diode and referencing your Referral Code).  
 
 * Chat 'set affiliate-url https://mypromotionalarticle.com' to the Registrar bot to enroll.
 * Chat 'help' to the Registrar bot for details.
 
 ## Diode Referral Program Active Affiliates
 
-In order to unlock Referral Tree Points in the Diode Referral Program, you must be an Active Affiliate. 
+In order to unlock [Referral Tree Points](/docs/programs/referral_tree.html) in the Diode Referral Program, you must be an Active Affiliate. 
 
 Active Affiliate means:
 
@@ -29,7 +29,7 @@ Active Affiliate means:
 * Epoch 679 and later: Increase the number of registerd customers from the previous Epoch
 
 ## Governance
-The Referral Code system is governed by the [Diode Foundation Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html), and these additional terms:
+The Referral Code system is governed by the [Diode Foundation Referral Program](/docs/programs/ambassador_registration_program.html), and these additional terms:
 
 * The participant must write an article, blog post, or other publicly accessible primary web content that promotes Diode to potential customers and that lists their Affiliate Code 
 * The participant's Affiliate Code is the same as their Referral Code
