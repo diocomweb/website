@@ -28,9 +28,9 @@ Participants are rewarded based on the activity of those they have referred, up 
 In order to be rewarded by your Referral Tree you must:
 
 - register for a [Referral Code](/docs/programs/ambassador_registration_program.html)
-- have others who have registered with your Referral Code - each person who does so builds your "Referral Tree"
-- have individuals in your Referral Tree who have earned direct points
-- have earned directly points yourself
+- have others who have registered with your Referral Code - each person who does so is your "child" - they are the first layer of your "Referral Tree"
+- have descendants in your Referral Tree who have earned direct points
+- have earned direct points yourself
 - have registered for the [Diode Foundation Affiliate Program](/docs/programs/diode_affiliate_program.html)
 
 ### Reward Calculation
