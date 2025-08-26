@@ -2,7 +2,7 @@
 layout: default
 title: Diode Foundation Affiliate Program
 parent: Programs
-nav_order: 4
+nav_order: 5
 ---
 
 # Diode Foundation Affiliate Program
