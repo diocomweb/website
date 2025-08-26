@@ -44,7 +44,7 @@ The reward for each antecedent is based on the geometric progression r = b * 0.5
 
 An example distribution to the antecedents of an active participant who has earned 100 points from running nodes is shown below:
 
-| Entity      | Bandwidth Boost Award |
+| Entity      | Referral Tree Award |
 | ----------- | ----------- |
 | Seed Code (h=5) | 12.5 Points |
 | Child Code | 12.5 Points |
