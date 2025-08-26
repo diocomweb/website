@@ -37,13 +37,11 @@ In order to be rewarded by your Referral Tree you must:
 
 Your Referral Tree points can be a maximum of your Direct Points.  Direct Points are points earned from your contributions to various programs, like hosting nodes for the [Bandwidth Growth Program](/docs/programs/bandwdith_growth_program.html)
 
-Referral Tree points are earned when the descendants in your Referral Tree earn points.  They are calculated by awarding points to each antecedent of the participant to who the active item (node, zone, referral) was registered, all the way up to the top Seed Referral Code.
+Referral Tree points are earned when a descendant in your Referral Tree earns points.  Referral Tree points are calculated by awarding points to each antecedent of the participant who registered the active item (node, zone, referral), all the way up to the top Seed Referral Code.
 
-The reward for all antecedents is based on the geometric progression r = b * 0.5^h,  where r is the relevant antecedent reward, b is the active participant's total Direct Points, and h is the height of the antecedent relative to the active participant (e.g. the parent of a node runner has a height of 1, their grandparent has a height of 2).
+The reward for each antecedent is based on the geometric progression r = b * 0.5^h,  where r is the relevant antecedent reward, b is the active participant's total Direct Points, and h is the height of the antecedent relative to the active participant (e.g. the parent of a node runner has a height of 1, their grandparent has a height of 2).  The Seed Referral Code’s reward is the same as its child (r = b * 0.5^(h-1) ). In this way, the total distribution is always the same and there is no incentive to create fake descendants.
 
-The Seed Referral Code’s reward is the same as its child (r = b * 0.5^(h-1) ). In this way, the total distribution is always the same and there is no incentive to create fake descendants.
-
-An example distribution to the antecedents of an active Participant who has earned 100 points from running nodes is shown below:
+An example distribution to the antecedents of an active participant who has earned 100 points from running nodes is shown below:
 
 | Entity      | Bandwidth Boost Award |
 | ----------- | ----------- |
@@ -51,8 +49,8 @@ An example distribution to the antecedents of an active Participant who has earn
 | Child Code | 12.5 Points |
 | Grandchild | 25 Points |
 | Great Grandchild | 50 Points |
-| Node Runner (Great-Great Grandchild) (h=1) | 100 Points |
-| **Total Allocated Award** | **200 Points** |
+| Great-Great Grandchild (h=1) | 100 Points |
+| **Participant Direct Award** | **200 Points** |
 
 ## Governance
 
