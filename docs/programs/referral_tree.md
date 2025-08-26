@@ -15,11 +15,9 @@ Active!  Monitor the [Discord](https://discord.gg/qdGCAKJdHs) for announcements.
 
 Participants in the Diode Referral Program are eligible to receive Referral Tree Points - also known as "Indirect Points".
 
-In order to participate in this program, you must first register for a [Referral Code](/docs/programs/ambassador_registration_program.html).
-
 ## Goals
 
-A healthy ecosystem requires active ecosystem leaders.  If a given participant has referred others to the Diode Referral Program, they can be rewarded for the contributions of those they have referred as an incentive to keeping their "Referral Tree" working well for both the Diode Foundation and for themselves.
+A healthy ecosystem requires active ecosystem leaders.  If a given participant has referred others to the Diode Referral Program, they can be rewarded for their "children's" contributions as an incentive to keeping their "Referral Tree" working well for both the Diode Foundation and for themselves.
 
 ## Rewards
 
