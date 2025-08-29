@@ -15,7 +15,7 @@ Active!  Monitor the [Discord](https://discord.gg/qdGCAKJdHs) for announcements.
 
 ## Overview
 
-The goal of the regional Bandwidth Growth Program is to grow the capacity of high-quality regional network bandwidth around the globe.  
+The goal of the regional Bandwidth Growth Program is to grow the capacity and demand of high-quality regional network bandwidth around the globe.
 
 In order to participate in this program, you must first register for a [Referral Code](/docs/programs/ambassador_registration_program.html).
 
@@ -35,11 +35,18 @@ Participants are rewarded based on the activity of the Relay Nodes who have been
 
 In order to be rewarded by this program, you must:
 
+For Nodes: 
+
 - register for a [Referral Code](/docs/programs/ambassador_registration_program.html)
 - register your Relay Node
 - ensure your Relay Node provides some bandwidth to the Diode Network (as proven through bandwidth proofs that the Relay Nodes automatically submit to the network at the end of each month)
 - keep your Relay Node online for the majority of the epoch - including within 24 hours of the close of the epoch (points reset to 0 if no valid contributions in the past 24 hours)
 - if required, ensure your Relay Node has a minimum Registered Balance or Stake (see next)
+
+For Zones: 
+- ensure daily active user engagement (messaging, file creation, etc.) - points decrease when activity drops since they’re based on the average active users per epoch
+- keep your Zone active - after 24 hours of inactivity its score resets to 0, though points are restored when activity resumes, 24 hour periods of downtime will affect the overall average
+
 
 **Node Registered Balance**
 
