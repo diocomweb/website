@@ -44,6 +44,8 @@ For Nodes:
 - if required, ensure your Relay Node has a minimum Registered Balance or Stake (see next)
 
 For Zones: 
+- create a [Zone](https://app.docs.diode.io/docs/using/create-a-zone/)
+- register your [Zone](https://network.docs.diode.io/docs/faq/how-do-i-register-a-zone-in-the-diode-collab/)
 - ensure daily active user engagement (messaging, file creation, etc.) - points decrease when activity drops since they’re based on the average active users per epoch
 - keep your Zone active - after 24 hours of inactivity its score resets to 0, though points are restored when activity resumes, 24 hour periods of downtime will affect the overall average
 
@@ -62,7 +64,7 @@ When Bandwidth Rewards are deployed at the end of each month, the percentage of 
 - Points leverage based on a node's Registered Balance.  Currently, a Registered Balance of 10 DIODE will earn full points, while anything less than 10 DIODE will be calculated as points * (Registered Balance / 10)
 - Fleet-specific ratios
 
-## Registration
+## Registration for Nodes and Zones
 
 You must register your Relay Node in order to attributed rewardable traffic to your Referral Code, and any code in the hierarchy above you.
 
@@ -72,8 +74,19 @@ You must register your Relay Node in order to attributed rewardable traffic to y
 2. [Put a Relay Node online!](https://forum.diode.io/t/lite-node-installation/33)
 3. Open the [Diode Referrals Zone](https://diode.io/joinzone/#p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2) in your Diode App and click the "Registrar" DM
 5. Use the command "register [node address]" where [node address] is the public key of your Relay Node (make sure you don't attempt to register a node / address that you do not own - this can result in your code being banned from the system)
-6. You can type "nodes" to get a list of nodes that belong to you
+6. You can type "list nodes" to get a list of nodes that belong to you
 7. Start relaying traffic!
+
+You must register your Zone in order to receive rewardable traffic based off of the activity in your Zone.
+
+### How to Register a Zone
+
+1. Join Diode Collab
+2. [Create a Zone!](https://app.docs.diode.io/docs/using/create-a-zone/)
+3. Open the [Diode Referrals Zone](https://diode.io/joinzone/#p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2) in your Diode App and click the "Registrar" DM
+4. Use the command "register Zone [Zone address]" where [Zone address] is the [Zone ID](https://network.docs.diode.io/docs/faq/how-do-i-register-a-zone-in-the-diode-collab/) of your Zone (make sure you don't attempt to register a Zone / address that you do not own - this can result in your code being banned from the system)
+5. You can type "List Zones" to get a list of Zones that belong to you
+6. Start your Zone community!
 
 ## Governance
 
