@@ -17,19 +17,19 @@ A Diode Community Regional Leader is the key point person for Diode's ecosystem 
 
 ## What are epochs?
 
-Each Epoch lasts **30 days** and rewards are calculated and distributed based on your activity within the Epoch.
+An epoch is a **30 day** period to track user activity, and rewards are calculated and distributed based on the activity within the epoch.
 
-## What does staking your node mean?
+## What does "staking your node" mean?
 
-There is a **10-day staking window** after the start of each Epoch. Nodes need at least **1 $DIODE staked** to qualify for rewards, and **10 $DIODE** for full points.
+There is a **10-day staking window** after the start of each epoch. Nodes need at least **1 $DIODE staked** to qualify for rewards, and **10 $DIODE** for full points.
 
 ## How are Zone points calculated?
 
-These are calculated on **active daily users**, not just invites or registrations. Sending unsolicited invites is considered to be spam and your Zone will be banned from earning points that Epoch if this happens.
+These are calculated on **active daily users**, not just invites or registrations. Sending unsolicited invites is considered to be spam and your Zone will be banned from earning points that epoch if this happens.
 
 ## Does my node placement matter?
 
-New or under-served regions earn extra points/rewards for bringing the network closer to users while nodes clustered in the same datacenter/IP range compete and may earn less.
+New or under-served regions earn extra points for bringing the network closer to users while nodes clustered in the same datacenter/IP range compete and may earn less.
 
 ## How do I register for points?
 Join the Diode Foundation Referral program, join the Diode Referrals Zone in Diode Collab, and register your Zone, node, or wallet with the Registrar chat bot. 
