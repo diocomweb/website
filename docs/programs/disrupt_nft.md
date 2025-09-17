@@ -10,7 +10,7 @@ nav_order: 6
 
 * [One page overview](https://docsend.com/view/88bjnict8inuvxt9)
 * [Get it on the Diode Network Site](https://diodenetwork.io/token)
-* [NFT Address](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7)
+* [NFT Address](https://moonscan.io/token/0x094F63c2a04feBeA7aF1DCb4ebe526F9080A7d6d)
 * [To discuss, join the Diode Disrupt NFT Zone](https://diode.io/joinzone/#cgzvtSDUSVtPzS2kX18wohdIbBGw8FdRHcbju5MbUnYqZcETIV4YWcEKHPZ2)
 
 ## Overview
