@@ -64,16 +64,16 @@ The purchase and ownership of NFTs may have tax implications, including potentia
 
 ### Smart Contract Precedence
 
-The Disrupt NFT is issue via an automated [smart contract on the Moonbeam Network](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7) - where these terms differ from the smart contract's functionality, the smart contract takes precedence.
+The Disrupt NFT is issue via an automated [smart contract on the Moonbeam Network](https://moonscan.io/token/0x094F63c2a04feBeA7aF1DCb4ebe526F9080A7d6d) - where these terms differ from the smart contract's functionality, the smart contract takes precedence.
 
 ### On Chain Limited Mint
 
-A maximum of 8,500 Disrupt NFTs will be made available from the NFT contract residing on Moonbeam at address , visible on Moonscan at [address 0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7). Each NFT is numbered: 1 through 8,500, such number contained in the NFT metadata, the NFT image, and in the NFT contract.
+A maximum of 8,500 Disrupt NFTs will be made available from NFT contracts residing on Moonbeam.  There are two contracts: [Contract 1 for slots 1 - 1197 at 0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7](https://moonscan.io/token/0xe9a4aeDD9B50c0394Efc83332E98B6eB977f5ae7) and [Contract 2 for slots 1198 - 8,500 at 0x094F63c2a04feBeA7aF1DCb4ebe526F9080A7d6d](https://moonscan.io/token/0x094F63c2a04feBeA7aF1DCb4ebe526F9080A7d6d). Each NFT is numbered: 1 through 8,500, such number contained in the NFT metadata, the NFT image, and in the NFT contract.
 
 ### Purchases and Pricing
 All NFT purchases are final, and no refunds or exchanges will be provided unless explicitly stated otherwise.
 
-Before the token unlocking date, the NFT can only be purchased for USDC.  After the token unlocking date, the NFT can be purchased for the next numbered NFT price in USDC, or for 20 DIODE tokens.  Each numbered NFT sells for $0.02 more than the previous NFT in USDC, starting at $15 USDC for NFT #1.  For example, NFT #1 will cost $15 USDC, and NFT #8,500 will cost $184.98 USDC. 
+Before the token unlocking date, the NFT can only be purchased for USDC.  After the token unlocking date, the NFT can be purchased for the next numbered NFT price in USDC (Contract 1) or GLMR (Contract 2), or for 20 DIODE tokens (Contract 2).  Each numbered NFT sells for $0.02 more than the previous NFT in USDC, starting at $15 USDC for NFT #1.  For example, NFT #1 will cost $15 USDC, and NFT #8,500 will cost $184.98 USDC.  GLMR pricing is calculated based on the exchange rate of $0.06578 USD per GLMR.
 
 ### Yield
 Per externally held NFT, 0.0065% of the amount of commercial subscription revenues received by Diode, a Wyoming C Corporation, will be allocated by the Diode Foundation to yield for the NFT holders. If all 8,500 NFTs are sold, this will be about 55% of the amount of Diode’s subscription revenues.  A minimum quarterly yield of $2.93 USD (in DIODE tokens, per “Yield Payments” below) will be paid per NFT. Growth in monthly subscriptions above 0% will result in a higher yield.
