@@ -72,7 +72,7 @@ You must register your Relay Node in order to attributed rewardable traffic to y
 
 1. Join the [Diode Referral Program](https://diode.foundation/docs/programs/ambassador_registration_program.html) and get your own referral code
 2. [Put a Relay Node online!](https://forum.diode.io/t/lite-node-installation/33)
-3. Open the [Diode Referrals Zone](https://diode.io/joinzone/#p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2) in your Diode App and click the "Registrar" DM
+3. Open the [Diode Community Zone](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC) in your Diode App and click the "Registrar" DM
 5. Use the command "register [node address]" where [node address] is the public key of your Relay Node (make sure you don't attempt to register a node / address that you do not own - this can result in your code being banned from the system)
 6. You can type "list nodes" to get a list of nodes that belong to you
 7. Start relaying traffic!
@@ -83,7 +83,7 @@ You must register your Zone in order to receive rewardable traffic based off of 
 
 1. Join Diode Collab
 2. [Create a Zone!](https://app.docs.diode.io/docs/using/create-a-zone/)
-3. Open the [Diode Referrals Zone](https://diode.io/joinzone/#p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2) in your Diode App and click the "Registrar" DM
+3. Open the [Diode Community Zone](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC) in your Diode App and click the "Registrar" DM
 4. Use the command "register Zone [Zone address]" where [Zone address] is the [Zone ID](https://network.docs.diode.io/docs/faq/how-do-i-register-a-zone-in-the-diode-collab/) of your Zone (make sure you don't attempt to register a Zone / address that you do not own - this can result in your code being banned from the system)
 5. You can type "List Zones" to get a list of Zones that belong to you
 6. Start your Zone community!
