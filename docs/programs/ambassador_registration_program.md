@@ -24,7 +24,7 @@ In order to get your referral code, you will first need the following:
 2. Get an Referral Code from a friend who is already in the program - OR - use a Referral Code for your region in the “[Regional Codes](https://diode.foundation/docs/programs/ambassador_registration_program.html#regional-codes)” table below.
 
 ### Steps
-1. Open Diode Collab and [join the "Diode Referrals" Zone](https://diode.io/joinzone/#p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2)
+1. Open Diode Collab and [join the "Diode Community" Zone](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC)
 2. Wait for the zone to appear and until it is fully initialized (can take a few minutes)
 3. Navigate to the Registrar (or "registrar.diode") chat and initiate a chat with it by sending "hello" (or anything you like)
 4. You will be prompted for your referral code - respond with the code you were provided or with a code from the Regional Codes table below
